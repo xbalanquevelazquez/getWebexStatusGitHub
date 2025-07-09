@@ -1,0 +1,36 @@
+name: Scrape Webex Status and Commit JSON
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"  # Cada 15 minutos
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repo
+        uses: actions/checkout@v3
+
+      - name: Instalar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Ejecutar scraper y subir JSON
+        run: npm start
+        
+
+      - name: Commit and push JSON
+        run: |
+          git config user.name "xbalanquevelazquez"
+          git config user.email "xbalanque.velazquez@gmail.com"
+          git add docs/webexStatus.json docs/webexHistory.json
+          git commit -m "update: webexStatus.json [auto]" || echo "No changes to commit"
+          git push
