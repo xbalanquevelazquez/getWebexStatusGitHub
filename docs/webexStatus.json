@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2025-07-11T19:28:24.785Z",
+  "updatedAt": "2025-07-11T19:39:48.597Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Meetings: Users on clusters W, AI and BI are unable to access their Webex sites"
       }
     ],
     "services": [
       {
         "name": "Webex Meetings",
-        "status": "Operational",
+        "status": "Partial Impact",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-partial_outage"
       },
       {
         "name": "Webex User Hub",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-07-11T19:28:20.803Z"
+    "timestamp": "2025-07-11T19:39:46.468Z"
   }
 }
