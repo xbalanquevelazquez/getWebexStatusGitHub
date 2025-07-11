@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-07-11T19:39:48.597Z",
+  "updatedAt": "2025-07-11T19:48:19.523Z",
   "data": {
     "openIncidents": [
       {
@@ -9,9 +9,9 @@
     "services": [
       {
         "name": "Webex Meetings",
-        "status": "Partial Impact",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-partial_outage"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex User Hub",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-07-11T19:39:46.468Z"
+    "timestamp": "2025-07-11T19:48:14.136Z"
   }
 }
