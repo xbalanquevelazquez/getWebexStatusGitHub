@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-07-11T01:09:08.326Z",
+  "updatedAt": "2025-07-11T03:03:22.534Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling & Contact Center Service Maintenance: July 10, 2025"
+        "desc": "Webex Calling & Contact Center Service Maintenance: July 11, 2025"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-07-11T01:09:06.118Z"
+    "timestamp": "2025-07-11T03:03:18.619Z"
   }
 }
