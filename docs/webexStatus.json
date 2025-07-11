@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-07-11T19:48:19.523Z",
+  "updatedAt": "2025-07-11T20:15:36.105Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Meetings: Users on clusters W, AI and BI are unable to access their Webex sites"
+        "desc": ""
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-07-11T19:48:14.136Z"
+    "timestamp": "2025-07-11T20:15:34.091Z"
   }
 }
