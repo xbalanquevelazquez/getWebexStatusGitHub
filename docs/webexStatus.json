@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-07-15T21:49:35.327Z",
+  "updatedAt": "2025-07-15T22:14:23.558Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling & Contact Center Service Maintenance: July 15, 2025Webex Calling & Contact Center Service Maintenance: July 15, 2025"
+        "desc": "Webex Calling & Contact Center Service Maintenance: July 15, 2025Webex Calling & Contact Center Service Maintenance: July 15, 2025Webex Calling & Contact Center Service Maintenance: July 15, 2025"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-07-15T21:49:33.266Z"
+    "timestamp": "2025-07-15T22:14:19.303Z"
   }
 }
