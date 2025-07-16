@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-07-16T16:50:26.689Z",
+  "updatedAt": "2025-07-16T17:15:38.379Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center Enterprise: Agents in the US region may encounter intermittent failures with Finesse services"
+        "desc": "Webex Calling Service Maintenance: July 16, 2025Webex Contact Center Enterprise: Agents in the US region may encounter intermittent failures with Finesse services"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-07-16T16:50:24.304Z"
+    "timestamp": "2025-07-16T17:15:33.680Z"
   }
 }
