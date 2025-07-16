@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-07-16T14:38:06.700Z",
+  "updatedAt": "2025-07-16T14:54:21.322Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Contact Center Enterprise: Agents in the US region may encounter intermittent failures with Finesse services"
       }
     ],
     "services": [
@@ -93,9 +93,9 @@
       },
       {
         "name": "Webex Contact Center Enterprise",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Slido",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-07-16T14:38:04.791Z"
+    "timestamp": "2025-07-16T14:54:17.132Z"
   }
 }
