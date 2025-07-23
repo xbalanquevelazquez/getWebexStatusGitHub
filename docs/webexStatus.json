@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-07-23T22:38:04.438Z",
+  "updatedAt": "2025-07-23T22:52:58.547Z",
   "data": {
     "openIncidents": [
       {
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-07-23T22:37:59.197Z"
+    "timestamp": "2025-07-23T22:52:54.589Z"
   }
 }
