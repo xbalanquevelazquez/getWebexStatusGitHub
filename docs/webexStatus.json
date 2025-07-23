@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-07-23T10:47:28.499Z",
+  "updatedAt": "2025-07-23T11:13:21.833Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling for Carrier: Administrators in the US region are unable to perform user management and provisioning tasks"
+        "desc": "Webex Calling & Contact Center Service Maintenance: July 23, 2025Webex Calling for Carrier: Administrators in the US region are unable to perform user management and provisioning tasks"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-07-23T10:47:26.401Z"
+    "timestamp": "2025-07-23T11:13:16.251Z"
   }
 }
