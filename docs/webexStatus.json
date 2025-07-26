@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-07-26T01:09:27.106Z",
+  "updatedAt": "2025-07-26T03:00:21.560Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Meetings: Texas Data Center Emergency Extended Service Maintenance: July 25, 2025"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-07-26T01:09:21.544Z"
+    "timestamp": "2025-07-26T03:00:16.380Z"
   }
 }
