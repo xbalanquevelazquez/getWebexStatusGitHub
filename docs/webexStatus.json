@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-07-29T17:45:35.647Z",
+  "updatedAt": "2025-07-29T18:21:31.750Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling: Intermittent media quality degradation for some users in the US regionWebex Calling & Contact Center Service Maintenance: July 29, 2025Webex Calling & Contact Center Service Maintenance: July 29, 2025"
+        "desc": "Webex Calling & Contact Center Service Maintenance: July 29, 2025Webex Calling & Contact Center Service Maintenance: July 29, 2025"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-07-29T17:45:33.171Z"
+    "timestamp": "2025-07-29T18:21:26.414Z"
   }
 }
