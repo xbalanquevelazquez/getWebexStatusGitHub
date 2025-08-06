@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-08-06T03:14:37.945Z",
+  "updatedAt": "2025-08-06T04:14:02.402Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Emergency Service Maintenance: August 06, 2025Webex Calling Dedicated Instance and UCM Cloud Service Maintenance: August 06, 2025Webex Calling Service Maintenance: August 06, 2025"
+        "desc": "Webex Meetings: Texas Data Center Emergency Extended Service Maintenance: August 05, 2025Webex Calling Emergency Service Maintenance: August 06, 2025Webex Calling Service Maintenance: August 06, 2025"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-08-06T03:14:35.771Z"
+    "timestamp": "2025-08-06T04:13:58.336Z"
   }
 }
