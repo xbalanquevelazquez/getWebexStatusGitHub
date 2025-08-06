@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-06T14:26:21.264Z",
+  "updatedAt": "2025-08-06T14:50:24.376Z",
   "data": {
     "openIncidents": [
       {
@@ -99,11 +99,11 @@
       },
       {
         "name": "Slido",
-        "status": "Operational",
+        "status": "Partial Impact",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-partial_outage"
       }
     ],
-    "timestamp": "2025-08-06T14:26:18.909Z"
+    "timestamp": "2025-08-06T14:50:19.940Z"
   }
 }
