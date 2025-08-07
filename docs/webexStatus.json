@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-07T13:56:30.545Z",
+  "updatedAt": "2025-08-07T14:20:55.305Z",
   "data": {
     "openIncidents": [
       {
@@ -57,9 +57,9 @@
       },
       {
         "name": "Webex App",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Control Hub",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-08-07T13:56:25.235Z"
+    "timestamp": "2025-08-07T14:20:49.473Z"
   }
 }
