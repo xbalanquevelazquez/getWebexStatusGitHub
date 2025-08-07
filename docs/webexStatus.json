@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-08-07T12:30:21.731Z",
+  "updatedAt": "2025-08-07T13:23:49.692Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: August 07, 2025Webex App: Some newly created users are prompted for self sign-up code when attempting to login to Webex app"
+        "desc": "Webex App: Some newly created users are prompted for self sign-up code when attempting to login to Webex appWebex Calling Service Maintenance: August 07, 2025"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-08-07T12:30:16.954Z"
+    "timestamp": "2025-08-07T13:23:43.563Z"
   }
 }
