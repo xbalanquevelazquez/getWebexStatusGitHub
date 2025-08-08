@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-08-08T16:45:24.910Z",
+  "updatedAt": "2025-08-08T16:57:11.161Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Administrators are unable to saves changes when removing teams from users in Webex Control HubWebex Calling: Call Queue overflow is not working"
+        "desc": "Webex Calling: Call Queue overflow is not working"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-08-08T16:45:19.713Z"
+    "timestamp": "2025-08-08T16:57:08.686Z"
   }
 }
