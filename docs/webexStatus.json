@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-08-08T15:15:10.770Z",
+  "updatedAt": "2025-08-08T15:39:50.637Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Administrators are unable to remove users or create groups in Webex Control HubWebex Calling: Call Queue overflow is not working"
+        "desc": "Webex Calling: Call Queue overflow is not workingWebex Contact Center: Administrators are unable to remove users or create groups in Webex Control Hub"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-08-08T15:15:08.120Z"
+    "timestamp": "2025-08-08T15:39:45.706Z"
   }
 }
