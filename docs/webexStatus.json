@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-08T16:16:24.505Z",
+  "updatedAt": "2025-08-08T16:45:24.910Z",
   "data": {
     "openIncidents": [
       {
@@ -63,9 +63,9 @@
       },
       {
         "name": "Webex Control Hub",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Calling",
@@ -87,9 +87,9 @@
       },
       {
         "name": "Webex Contact Center",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Contact Center Enterprise",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-08-08T16:16:19.970Z"
+    "timestamp": "2025-08-08T16:45:19.713Z"
   }
 }
