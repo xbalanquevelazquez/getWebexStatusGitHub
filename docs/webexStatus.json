@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-08-08T19:36:31.808Z",
+  "updatedAt": "2025-08-08T19:48:12.432Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling: Call Queue overflow is not working"
+        "desc": ""
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-08-08T19:36:27.162Z"
+    "timestamp": "2025-08-08T19:48:10.310Z"
   }
 }
