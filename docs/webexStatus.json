@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-08-09T05:50:58.109Z",
+  "updatedAt": "2025-08-09T06:19:44.439Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center Enterprise: Intermittent Agents logged out"
+        "desc": ""
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-08-09T05:50:52.077Z"
+    "timestamp": "2025-08-09T06:19:42.302Z"
   }
 }
