@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-08-09T01:06:37.725Z",
+  "updatedAt": "2025-08-09T02:56:11.651Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Contact Center Enterprise: Intermittent Agents logged out"
       }
     ],
     "services": [
@@ -93,9 +93,9 @@
       },
       {
         "name": "Webex Contact Center Enterprise",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Slido",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-08-09T01:06:31.480Z"
+    "timestamp": "2025-08-09T02:56:05.798Z"
   }
 }
