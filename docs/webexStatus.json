@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-08-11T09:46:22.928Z",
+  "updatedAt": "2025-08-11T10:16:08.160Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling: Administrators may experience delays retrieving CDR via API"
+        "desc": ""
       }
     ],
     "services": [
@@ -27,9 +27,9 @@
       },
       {
         "name": "Developer API",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Hybrid Services",
@@ -69,9 +69,9 @@
       },
       {
         "name": "Webex Calling",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Cisco BroadCloud",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-08-11T09:46:20.708Z"
+    "timestamp": "2025-08-11T10:16:04.033Z"
   }
 }
