@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-08-12T05:50:47.949Z",
+  "updatedAt": "2025-08-12T06:21:21.725Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: August 12, 2025"
+        "desc": "Webex Contact Center Enterprise: Unable to request a schedule portal callbackWebex Calling Service Maintenance: August 12, 2025"
       }
     ],
     "services": [
@@ -93,9 +93,9 @@
       },
       {
         "name": "Webex Contact Center Enterprise",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Slido",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-08-12T05:50:42.581Z"
+    "timestamp": "2025-08-12T06:21:17.433Z"
   }
 }
