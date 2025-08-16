@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-08-16T06:18:50.038Z",
+  "updatedAt": "2025-08-16T06:47:48.923Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Meetings: Saudi Arabia Data Center Emergency Extended Service Maintenance: August 15, 2025"
+        "desc": ""
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-08-16T06:18:47.411Z"
+    "timestamp": "2025-08-16T06:47:46.430Z"
   }
 }
