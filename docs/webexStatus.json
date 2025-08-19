@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-08-19T13:40:32.416Z",
+  "updatedAt": "2025-08-19T13:51:57.561Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Dedicated Instance: Some users in the AMER region may encounter brief service degradation Webex Calling Service Maintenance: August 19, 2025"
+        "desc": "Webex Calling Service Maintenance: August 19, 2025"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-08-19T13:40:30.233Z"
+    "timestamp": "2025-08-19T13:51:54.765Z"
   }
 }
