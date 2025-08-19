@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-08-19T01:04:30.724Z",
+  "updatedAt": "2025-08-19T02:48:01.878Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Dedicated Instance and UCM Cloud Service Maintenance: August 19, 2025"
+        "desc": "Webex Calling Service Maintenance: August 19, 2025Webex Calling Dedicated Instance and UCM Cloud Service Maintenance: August 19, 2025"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-08-19T01:04:28.329Z"
+    "timestamp": "2025-08-19T02:47:59.400Z"
   }
 }
