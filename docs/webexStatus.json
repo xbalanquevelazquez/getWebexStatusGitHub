@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-08-20T14:35:51.216Z",
+  "updatedAt": "2025-08-20T14:51:40.348Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: August 20, 2025"
+        "desc": "Webex Calling: Administrators of Orgs hosted in the US region may experience failures with retrieving CDR reportsWebex Calling Service Maintenance: August 20, 2025"
       }
     ],
     "services": [
@@ -27,9 +27,9 @@
       },
       {
         "name": "Developer API",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Webex Hybrid Services",
@@ -63,9 +63,9 @@
       },
       {
         "name": "Webex Control Hub",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Webex Calling",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-08-20T14:35:48.754Z"
+    "timestamp": "2025-08-20T14:51:38.364Z"
   }
 }
