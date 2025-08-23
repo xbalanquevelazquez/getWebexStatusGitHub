@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-08-23T01:00:31.378Z",
+  "updatedAt": "2025-08-23T02:40:30.638Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Meetings: New York Data Center Extended Service Maintenance: August 22, 2025"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-08-23T01:00:28.954Z"
+    "timestamp": "2025-08-23T02:40:28.316Z"
   }
 }
