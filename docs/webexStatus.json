@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-08-24T15:39:22.324Z",
+  "updatedAt": "2025-08-24T15:48:11.023Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Contact Center Enterprise: Customers unable to access the portal call routing (Application Gateway)"
       }
     ],
     "services": [
@@ -93,9 +93,9 @@
       },
       {
         "name": "Webex Contact Center Enterprise",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Slido",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-08-24T15:39:20.177Z"
+    "timestamp": "2025-08-24T15:48:08.378Z"
   }
 }
