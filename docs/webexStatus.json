@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2025-08-25T12:27:29.701Z",
+  "updatedAt": "2025-08-25T13:06:58.249Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Meetings: Users may experience incorrect IVR prompts after dialing into Webex Audio PSTN numbers in EMEA and EU region"
+        "desc": ""
       }
     ],
     "services": [
       {
         "name": "Webex Meetings",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex User Hub",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-08-25T12:27:26.307Z"
+    "timestamp": "2025-08-25T13:06:56.055Z"
   }
 }
