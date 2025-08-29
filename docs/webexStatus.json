@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-08-29T13:49:08.135Z",
+  "updatedAt": "2025-08-29T14:12:51.022Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling: Administrators are unable to manage the PSTN orders in Webex Control Hub"
+        "desc": ""
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-08-29T13:49:05.345Z"
+    "timestamp": "2025-08-29T14:12:48.527Z"
   }
 }
