@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-08-29T13:01:49.812Z",
+  "updatedAt": "2025-08-29T13:36:24.410Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Calling: Administrators are unable to manage the PSTN orders in Webex Control Hub"
       }
     ],
     "services": [
@@ -69,9 +69,9 @@
       },
       {
         "name": "Webex Calling",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Cisco BroadCloud",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-08-29T13:01:47.346Z"
+    "timestamp": "2025-08-29T13:36:21.487Z"
   }
 }
