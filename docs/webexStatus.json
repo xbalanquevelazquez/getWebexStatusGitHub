@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-09-02T10:14:28.811Z",
+  "updatedAt": "2025-09-02T10:35:58.870Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Calling: Administrators for Orgs in the US region may observe intermittent failures with provisioning tasks for endpoints, including devices and soft clients"
       }
     ],
     "services": [
@@ -39,9 +39,9 @@
       },
       {
         "name": "Webex for BroadWorks",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Gateway and Solutions",
@@ -69,9 +69,9 @@
       },
       {
         "name": "Webex Calling",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Cisco BroadCloud",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-09-02T10:14:26.828Z"
+    "timestamp": "2025-09-02T10:35:56.934Z"
   }
 }
