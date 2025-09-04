@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-09-04T14:33:32.033Z",
+  "updatedAt": "2025-09-04T14:48:50.745Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling: Some users in the US and Canada regions may experience failures with Push Notifications & Customer Assist servicesWebex Calling Service Maintenance: September 04, 2025"
+        "desc": "Webex Calling Service Maintenance: September 04, 2025"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-09-04T14:33:29.027Z"
+    "timestamp": "2025-09-04T14:48:48.682Z"
   }
 }
