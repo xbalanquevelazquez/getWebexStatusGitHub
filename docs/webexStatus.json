@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-09-04T14:12:52.640Z",
+  "updatedAt": "2025-09-04T14:33:32.033Z",
   "data": {
     "openIncidents": [
       {
@@ -57,9 +57,9 @@
       },
       {
         "name": "Webex App",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Control Hub",
@@ -69,9 +69,9 @@
       },
       {
         "name": "Webex Calling",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Cisco BroadCloud",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-09-04T14:12:49.153Z"
+    "timestamp": "2025-09-04T14:33:29.027Z"
   }
 }
