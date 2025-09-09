@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-09-09T16:16:41.176Z",
+  "updatedAt": "2025-09-09T16:44:01.930Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Some agents in the US region may experience RONA stateWebex Calling Service Maintenance: September 09, 2025Webex Calling Service Maintenance: September 09, 2025"
+        "desc": "Webex Calling Service Maintenance: September 09, 2025Webex Calling Service Maintenance: September 09, 2025"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-09-09T16:16:38.207Z"
+    "timestamp": "2025-09-09T16:44:00.076Z"
   }
 }
