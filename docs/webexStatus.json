@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-09-11T09:48:34.997Z",
+  "updatedAt": "2025-09-11T10:13:11.294Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Control Hub: Webex Calling administrators may observe no data when generating CDR reports or checking Analytics"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-09-11T09:48:32.077Z"
+    "timestamp": "2025-09-11T10:13:08.880Z"
   }
 }
