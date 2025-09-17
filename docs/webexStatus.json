@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-09-17T16:43:24.142Z",
+  "updatedAt": "2025-09-17T16:53:28.046Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Cisco BroadCloud: Users are unable to access the Rialto Market Portals"
       }
     ],
     "services": [
@@ -75,9 +75,9 @@
       },
       {
         "name": "Cisco BroadCloud",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Dedicated Instance/UCM Cloud",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-09-17T16:43:22.286Z"
+    "timestamp": "2025-09-17T16:53:25.026Z"
   }
 }
