@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-09-17T11:10:26.644Z",
+  "updatedAt": "2025-09-17T11:24:07.172Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Some customers in the US region connecting to the AI Agent service may experience dead air"
+        "desc": "Webex Contact Center: Some customers connecting to the AI Agent service may experience dead air"
       }
     ],
     "services": [
@@ -87,9 +87,9 @@
       },
       {
         "name": "Webex Contact Center",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Contact Center Enterprise",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-09-17T11:10:24.314Z"
+    "timestamp": "2025-09-17T11:24:04.918Z"
   }
 }
