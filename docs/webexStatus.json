@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-09-17T16:53:28.046Z",
+  "updatedAt": "2025-09-17T17:11:32.359Z",
   "data": {
     "openIncidents": [
       {
@@ -75,9 +75,9 @@
       },
       {
         "name": "Cisco BroadCloud",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Dedicated Instance/UCM Cloud",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-09-17T16:53:25.026Z"
+    "timestamp": "2025-09-17T17:11:29.962Z"
   }
 }
