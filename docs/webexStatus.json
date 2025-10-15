@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-10-15T03:49:50.123Z",
+  "updatedAt": "2025-10-15T04:15:55.837Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center Enterprise: Portal functionality is unavailable in EMEAWebex Calling Service Maintenance: October 15, 2025Webex Calling Service Maintenance: October 14, 2025"
+        "desc": "Webex Contact Center Enterprise: Portal functionality is unavailable in EMEAWebex Calling Service Maintenance: October 15, 2025"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-10-15T03:49:46.367Z"
+    "timestamp": "2025-10-15T04:15:53.059Z"
   }
 }
