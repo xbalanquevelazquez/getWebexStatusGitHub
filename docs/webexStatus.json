@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-10-15T07:13:52.436Z",
+  "updatedAt": "2025-10-15T07:30:50.342Z",
   "data": {
     "openIncidents": [
       {
@@ -93,9 +93,9 @@
       },
       {
         "name": "Webex Contact Center Enterprise",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Slido",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-10-15T07:13:49.644Z"
+    "timestamp": "2025-10-15T07:30:47.373Z"
   }
 }
