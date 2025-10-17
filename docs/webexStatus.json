@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-10-17T13:04:14.604Z",
+  "updatedAt": "2025-10-17T13:37:00.120Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Some agents are experiencing failures when calling emergency service numbers"
+        "desc": ""
       }
     ],
     "services": [
@@ -69,9 +69,9 @@
       },
       {
         "name": "Webex Calling",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Cisco BroadCloud",
@@ -87,9 +87,9 @@
       },
       {
         "name": "Webex Contact Center",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Contact Center Enterprise",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-10-17T13:04:12.339Z"
+    "timestamp": "2025-10-17T13:36:57.654Z"
   }
 }
