@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-10-20T09:22:50.489Z",
+  "updatedAt": "2025-10-20T09:47:10.339Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Contact Center: Some callers may not be able to connect to the IVR or an agent in the US region"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-10-20T09:22:48.070Z"
+    "timestamp": "2025-10-20T09:47:08.211Z"
   }
 }
