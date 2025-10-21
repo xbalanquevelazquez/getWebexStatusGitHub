@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-10-21T19:48:29.211Z",
+  "updatedAt": "2025-10-21T20:15:42.693Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Control Hub: Unable to assign licensesWebex Calling Service Maintenance: October 21, 2025Webex Calling Service Maintenance: October 21, 2025"
+        "desc": "Webex Calling Service Maintenance: October 21, 2025Webex Calling Service Maintenance: October 21, 2025Webex Calling Service Maintenance: October 21, 2025"
       }
     ],
     "services": [
@@ -63,9 +63,9 @@
       },
       {
         "name": "Webex Control Hub",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Calling",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-10-21T19:48:26.618Z"
+    "timestamp": "2025-10-21T20:15:39.723Z"
   }
 }
