@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-10-23T18:47:37.011Z",
+  "updatedAt": "2025-10-23T19:11:01.517Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: October 23, 2025Webex Calling Service Maintenance: October 23, 2025Webex Calling Service Maintenance: October 23, 2025Webex Calling Dedicated Instance and UCM Cloud Service Maintenance: October 23, 2025"
+        "desc": "Webex Calling Service Maintenance: October 23, 2025Webex Calling Service Maintenance: October 23, 2025Webex Calling Dedicated Instance and UCM Cloud Service Maintenance: October 23, 2025"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-10-23T18:47:34.476Z"
+    "timestamp": "2025-10-23T19:10:58.403Z"
   }
 }
