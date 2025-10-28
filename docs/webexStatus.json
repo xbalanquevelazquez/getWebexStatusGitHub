@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-10-28T15:51:37.811Z",
+  "updatedAt": "2025-10-28T16:18:42.911Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: October 28, 2025Webex Calling Service Maintenance: October 28, 2025"
+        "desc": "Webex Calling: Some administrators in the US region may be unable to view and manage devices in Webex Control HubWebex Calling Service Maintenance: October 28, 2025Webex Calling Service Maintenance: October 28, 2025"
       }
     ],
     "services": [
@@ -63,15 +63,15 @@
       },
       {
         "name": "Webex Control Hub",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Webex Calling",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Cisco BroadCloud",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-10-28T15:51:35.303Z"
+    "timestamp": "2025-10-28T16:18:39.544Z"
   }
 }
