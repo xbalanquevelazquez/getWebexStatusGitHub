@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-10-29T21:48:25.022Z",
+  "updatedAt": "2025-10-29T22:13:02.899Z",
   "data": {
     "openIncidents": [
       {
@@ -33,9 +33,9 @@
       },
       {
         "name": "Webex Hybrid Services",
-        "status": "Partial Impact",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-partial_outage"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex for BroadWorks",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-10-29T21:48:22.310Z"
+    "timestamp": "2025-10-29T22:13:00.612Z"
   }
 }
