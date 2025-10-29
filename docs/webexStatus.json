@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-10-29T20:50:43.537Z",
+  "updatedAt": "2025-10-29T21:12:17.402Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Hybrid Services: Some users are unable to schedule meetings in Microsoft Outlook 365Webex Calling Service Maintenance: October 29, 2025Webex Calling Dedicated Instance and UCM Cloud Service Maintenance: October 29, 2025"
+        "desc": "Webex Hybrid Services: Some users are unable to schedule meetings in Microsoft Outlook 365Webex Calling Service Maintenance: October 29, 2025Webex Calling Service Maintenance: October 29, 2025Webex Calling Dedicated Instance and UCM Cloud Service Maintenance: October 29, 2025"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-10-29T20:50:41.182Z"
+    "timestamp": "2025-10-29T21:12:13.948Z"
   }
 }
