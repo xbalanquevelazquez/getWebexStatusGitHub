@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-10-29T17:13:36.501Z",
+  "updatedAt": "2025-10-29T17:33:20.676Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: October 29, 2025"
+        "desc": "Webex Hybrid Services: Some users are unable to schedule meetings in Microsoft Outlook 365Webex Calling Service Maintenance: October 29, 2025"
       }
     ],
     "services": [
@@ -33,9 +33,9 @@
       },
       {
         "name": "Webex Hybrid Services",
-        "status": "Operational",
+        "status": "Partial Impact",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-partial_outage"
       },
       {
         "name": "Webex for BroadWorks",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-10-29T17:13:34.078Z"
+    "timestamp": "2025-10-29T17:33:18.090Z"
   }
 }
