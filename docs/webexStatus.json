@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-10-30T04:23:46.025Z",
+  "updatedAt": "2025-10-30T04:41:46.966Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: October 30, 2025Webex Calling Dedicated Instance and UCM Cloud Service Maintenance: October 29, 2025"
+        "desc": "Webex Contact Center: Agents in the Australia region may experience failures accessing real-time reportingWebex Calling Service Maintenance: October 30, 2025Webex Calling Dedicated Instance and UCM Cloud Service Maintenance: October 29, 2025"
       }
     ],
     "services": [
@@ -87,9 +87,9 @@
       },
       {
         "name": "Webex Contact Center",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Webex Contact Center Enterprise",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-10-30T04:23:43.308Z"
+    "timestamp": "2025-10-30T04:41:44.772Z"
   }
 }
