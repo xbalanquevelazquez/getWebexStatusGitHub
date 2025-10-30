@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-10-30T06:20:30.735Z",
+  "updatedAt": "2025-10-30T06:48:52.685Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Users in the Australia region may experience inaccurate real-time reporting dataWebex Calling Service Maintenance: October 30, 2025"
+        "desc": "Webex Calling Service Maintenance: October 30, 2025"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-10-30T06:20:27.900Z"
+    "timestamp": "2025-10-30T06:48:50.224Z"
   }
 }
