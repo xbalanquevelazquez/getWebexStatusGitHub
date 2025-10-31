@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-10-31T13:50:53.251Z",
+  "updatedAt": "2025-10-31T14:13:46.693Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Contact Center: Agents may experience delays accessing real-time reporting data"
       }
     ],
     "services": [
@@ -87,9 +87,9 @@
       },
       {
         "name": "Webex Contact Center",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Webex Contact Center Enterprise",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-10-31T13:50:50.885Z"
+    "timestamp": "2025-10-31T14:13:44.100Z"
   }
 }
