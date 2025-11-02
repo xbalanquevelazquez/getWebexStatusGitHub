@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-11-02T04:49:51.994Z",
+  "updatedAt": "2025-11-02T05:13:01.623Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Dedicated Instance and UCM Cloud Service Maintenance: November 2, 2025"
+        "desc": "Webex Meetings: Meeting Services Redirection for Cluster J, L, M, R, XAWebex Calling Dedicated Instance and UCM Cloud Service Maintenance: November 2, 2025"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-11-02T04:49:49.649Z"
+    "timestamp": "2025-11-02T05:12:58.589Z"
   }
 }
