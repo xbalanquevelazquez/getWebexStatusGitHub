@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-11-02T13:48:13.749Z",
+  "updatedAt": "2025-11-02T14:11:10.046Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Meetings: Meeting Services Redirection for Cluster J, L, M, R, XA"
+        "desc": ""
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-11-02T13:48:11.260Z"
+    "timestamp": "2025-11-02T14:11:07.024Z"
   }
 }
