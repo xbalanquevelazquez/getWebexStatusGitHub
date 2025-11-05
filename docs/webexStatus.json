@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-11-05T20:15:52.589Z",
+  "updatedAt": "2025-11-05T20:41:05.694Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Cisco BroadCloud: Admins are unable to modify toggles in the CAP portalWebex Calling Service Maintenance: November 05, 2025"
+        "desc": "Webex Calling Service Maintenance: November 05, 2025"
       }
     ],
     "services": [
@@ -75,9 +75,9 @@
       },
       {
         "name": "Cisco BroadCloud",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Dedicated Instance/UCM Cloud",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-11-05T20:15:50.544Z"
+    "timestamp": "2025-11-05T20:41:03.267Z"
   }
 }
