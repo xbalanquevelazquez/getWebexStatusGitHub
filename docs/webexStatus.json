@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-11-13T06:50:24.149Z",
+  "updatedAt": "2025-11-13T07:13:37.316Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Autonomous and Native Advanced Virtual Assistant Calls failures"
+        "desc": ""
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-11-13T06:50:21.542Z"
+    "timestamp": "2025-11-13T07:13:34.549Z"
   }
 }
