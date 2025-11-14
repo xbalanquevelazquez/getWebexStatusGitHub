@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-11-14T16:17:32.588Z",
+  "updatedAt": "2025-11-14T16:47:25.014Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Developer API: Users are unable to access Webex App Hub (www.apphub.webex.com)"
+        "desc": "Developer API: Users are unable to access Webex App Hub (https://apphub.webex.com)"
       }
     ],
     "services": [
@@ -27,9 +27,9 @@
       },
       {
         "name": "Developer API",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Hybrid Services",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-11-14T16:17:30.510Z"
+    "timestamp": "2025-11-14T16:47:21.669Z"
   }
 }
