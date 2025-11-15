@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-11-15T02:43:36.934Z",
+  "updatedAt": "2025-11-15T03:30:51.941Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Meetings: Texas Data Center Extended Service Maintenance: November 14, 2025Webex Calling Dedicated Instance and UCM Cloud Service Maintenance: November 15, 2025"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-11-15T02:43:34.530Z"
+    "timestamp": "2025-11-15T03:30:49.092Z"
   }
 }
