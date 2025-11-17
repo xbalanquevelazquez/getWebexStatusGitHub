@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-11-17T01:05:31.458Z",
+  "updatedAt": "2025-11-17T02:51:39.053Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Meetings: Texas Data Center Extended Service Maintenance: November 14, 2025Webex Calling Dedicated Instance and UCM Cloud Service Maintenance: November 15, 2025"
+        "desc": "Webex Calling: Users in Japan and Korea region would notice the MPP (Multiplatform phone) display has changed from Japanese to English and garbled charactersWebex Meetings: Texas Data Center Extended Service Maintenance: November 14, 2025Webex Calling Dedicated Instance and UCM Cloud Service Maintenance: November 15, 2025"
       }
     ],
     "services": [
@@ -69,9 +69,9 @@
       },
       {
         "name": "Webex Calling",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Cisco BroadCloud",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-11-17T01:05:28.997Z"
+    "timestamp": "2025-11-17T02:51:36.206Z"
   }
 }
