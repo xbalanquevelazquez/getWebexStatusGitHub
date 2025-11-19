@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-11-19T20:47:55.190Z",
+  "updatedAt": "2025-11-19T21:11:12.312Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Virtual Agent summary is not available for the agentsWebex Calling Service Maintenance: November 19, 2025"
+        "desc": "Webex Calling Service Maintenance: November 19, 2025Webex Contact Center: Virtual Agent summary is not available for the agentsWebex Calling Service Maintenance: November 19, 2025"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-11-19T20:47:53.076Z"
+    "timestamp": "2025-11-19T21:11:10.231Z"
   }
 }
