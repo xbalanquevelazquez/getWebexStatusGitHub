@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-11-20T03:39:51.785Z",
+  "updatedAt": "2025-11-20T03:58:39.472Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Virtual Agent summary is not available for the agentsWebex Calling Service Maintenance: November 20, 2025Webex Calling Dedicated Instance and UCM Cloud Service Maintenance: November 20, 2025"
+        "desc": "Webex Calling Service Maintenance: November 20, 2025Webex Calling Dedicated Instance and UCM Cloud Service Maintenance: November 20, 2025"
       }
     ],
     "services": [
@@ -87,9 +87,9 @@
       },
       {
         "name": "Webex Contact Center",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Contact Center Enterprise",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-11-20T03:39:49.616Z"
+    "timestamp": "2025-11-20T03:58:36.879Z"
   }
 }
