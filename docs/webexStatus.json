@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-11-21T16:54:30.424Z",
+  "updatedAt": "2025-11-21T17:12:22.729Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Control Hub: Some Administrators are unable to view and manage users via the 'Users' tab in Control Hub"
+        "desc": ""
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-11-21T16:54:27.310Z"
+    "timestamp": "2025-11-21T17:12:20.764Z"
   }
 }
