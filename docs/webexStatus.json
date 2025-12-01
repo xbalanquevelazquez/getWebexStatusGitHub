@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-12-01T08:22:18.129Z",
+  "updatedAt": "2025-12-01T08:51:31.875Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex for BroadWorks: Users and administrators are unable to login to User Access Portal and Webex Control Hub"
+        "desc": ""
       }
     ],
     "services": [
@@ -39,9 +39,9 @@
       },
       {
         "name": "Webex for BroadWorks",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Gateway and Solutions",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-12-01T08:22:15.387Z"
+    "timestamp": "2025-12-01T08:51:29.599Z"
   }
 }
