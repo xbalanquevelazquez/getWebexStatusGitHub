@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-12-08T02:57:31.845Z",
+  "updatedAt": "2025-12-08T03:54:28.012Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Contact Center New York Data Center Service Maintenance: December 08, 2025"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-12-08T02:57:29.522Z"
+    "timestamp": "2025-12-08T03:54:25.503Z"
   }
 }
