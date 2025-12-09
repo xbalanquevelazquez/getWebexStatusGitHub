@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-12-09T14:16:30.829Z",
+  "updatedAt": "2025-12-09T14:46:23.792Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex App: iOS mobile users in Spain, Romania, and the APAC region may experience join failuresWebex Calling Service Maintenance: December 09, 2025"
+        "desc": "Webex App: iOS users experiencing failures when attempting to join / start meetings conducted in the Spanish, Indonesian, Japanese, and Romanian languages.Webex Calling Service Maintenance: December 09, 2025"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-12-09T14:16:28.514Z"
+    "timestamp": "2025-12-09T14:46:21.962Z"
   }
 }
