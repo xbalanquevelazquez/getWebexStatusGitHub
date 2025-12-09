@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-12-09T02:54:37.137Z",
+  "updatedAt": "2025-12-09T03:47:30.298Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex App: iOS mobile users in APAC region may experience join failures"
+        "desc": "Webex Calling Service Maintenance: December 09, 2025Webex App: iOS mobile users in APAC region may experience join failures"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-12-09T02:54:34.806Z"
+    "timestamp": "2025-12-09T03:47:28.340Z"
   }
 }
