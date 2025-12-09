@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-12-09T17:36:50.195Z",
+  "updatedAt": "2025-12-09T17:51:48.403Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: December 09, 2025Webex App: iOS users with devices set to Japanese, Spanish (Spain), Romanian, or Indonesian language are experiencing meeting start/join failuresWebex Calling Service Maintenance: December 09, 2025"
+        "desc": "Webex App: iOS users with devices set to Japanese, Spanish (Spain), Romanian, or Indonesian language are experiencing meeting start/join failuresWebex Calling Service Maintenance: December 09, 2025Webex Calling Service Maintenance: December 09, 2025"
       }
     ],
     "services": [
@@ -57,9 +57,9 @@
       },
       {
         "name": "Webex App",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Control Hub",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-12-09T17:36:47.689Z"
+    "timestamp": "2025-12-09T17:51:46.163Z"
   }
 }
