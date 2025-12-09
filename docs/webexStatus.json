@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-12-09T16:49:33.663Z",
+  "updatedAt": "2025-12-09T17:15:23.488Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex App: iOS users with devices set to Japanese, Spanish (Spain), Romanian, or Indonesian language are experiencing meeting start/join failuresWebex Calling Service Maintenance: December 09, 2025"
+        "desc": "Webex Calling Service Maintenance: December 09, 2025Webex App: iOS users with devices set to Japanese, Spanish (Spain), Romanian, or Indonesian language are experiencing meeting start/join failuresWebex Calling Service Maintenance: December 09, 2025"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-12-09T16:49:30.953Z"
+    "timestamp": "2025-12-09T17:15:21.408Z"
   }
 }
