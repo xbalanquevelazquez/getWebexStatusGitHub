@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-12-13T02:51:04.019Z",
+  "updatedAt": "2025-12-13T03:45:12.420Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Meetings: Texas Data Center Extended Service Maintenance: December 12, 2025"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-12-13T02:51:02.170Z"
+    "timestamp": "2025-12-13T03:45:10.310Z"
   }
 }
