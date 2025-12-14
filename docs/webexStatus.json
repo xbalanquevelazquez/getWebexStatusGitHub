@@ -1,8 +1,109 @@
 {
-  "updatedAt": "2025-12-14T06:50:37.755Z",
+  "updatedAt": "2025-12-14T07:13:57.918Z",
   "data": {
-    "openIncidents": [],
-    "services": [],
-    "timestamp": "2025-12-14T06:49:27.290Z"
+    "openIncidents": [
+      {
+        "desc": "Webex Meetings: Texas Data Center Extended Service Maintenance: December 12, 2025"
+      }
+    ],
+    "services": [
+      {
+        "name": "Webex Meetings",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "color-component-status-operational"
+      },
+      {
+        "name": "Webex User Hub",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "color-component-status-operational"
+      },
+      {
+        "name": "Webex Cloud Registered Device",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "color-component-status-operational"
+      },
+      {
+        "name": "Developer API",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "color-component-status-operational"
+      },
+      {
+        "name": "Webex Hybrid Services",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "color-component-status-operational"
+      },
+      {
+        "name": "Webex for BroadWorks",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "color-component-status-operational"
+      },
+      {
+        "name": "Gateway and Solutions",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "color-component-status-operational"
+      },
+      {
+        "name": "Webex Events (formerly Socio)",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "color-component-status-operational"
+      },
+      {
+        "name": "Webex App",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "color-component-status-operational"
+      },
+      {
+        "name": "Webex Control Hub",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "color-component-status-operational"
+      },
+      {
+        "name": "Webex Calling",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "color-component-status-operational"
+      },
+      {
+        "name": "Cisco BroadCloud",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "color-component-status-operational"
+      },
+      {
+        "name": "Dedicated Instance/UCM Cloud",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "color-component-status-operational"
+      },
+      {
+        "name": "Webex Contact Center",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "color-component-status-operational"
+      },
+      {
+        "name": "Webex Contact Center Enterprise",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "color-component-status-operational"
+      },
+      {
+        "name": "Slido",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "color-component-status-operational"
+      }
+    ],
+    "timestamp": "2025-12-14T07:13:55.883Z"
   }
 }
