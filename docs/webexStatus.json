@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-12-17T23:49:41.597Z",
+  "updatedAt": "2025-12-18T01:05:20.693Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Dedicated Instance: Unable to load Cisco Emergency Responder (CER) User page"
+        "desc": "Webex Calling Emergency Service Maintenance: December 18, 2025Webex Calling Dedicated Instance: Unable to load Cisco Emergency Responder (CER) User page"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-12-17T23:49:39.591Z"
+    "timestamp": "2025-12-18T01:05:18.682Z"
   }
 }
