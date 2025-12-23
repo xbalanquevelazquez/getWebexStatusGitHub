@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-12-23T05:45:54.336Z",
+  "updatedAt": "2025-12-23T06:23:42.459Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Contact Center: Dead air and calls not getting delivered to Agents in US region"
       }
     ],
     "services": [
@@ -87,9 +87,9 @@
       },
       {
         "name": "Webex Contact Center",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Webex Contact Center Enterprise",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-12-23T05:45:50.462Z"
+    "timestamp": "2025-12-23T06:23:39.941Z"
   }
 }
