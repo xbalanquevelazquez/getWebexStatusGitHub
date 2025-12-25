@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-25T06:53:53.332Z",
+  "updatedAt": "2025-12-25T07:17:14.303Z",
   "data": {
     "openIncidents": [
       {
@@ -51,9 +51,9 @@
       },
       {
         "name": "Webex Events (formerly Socio)",
-        "status": "Operational",
+        "status": "Under Maintenance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-under_maintenance"
       },
       {
         "name": "Webex App",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2025-12-25T06:53:51.100Z"
+    "timestamp": "2025-12-25T07:17:11.767Z"
   }
 }
