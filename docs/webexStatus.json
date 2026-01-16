@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-01-16T05:20:11.690Z",
+  "updatedAt": "2026-01-16T05:46:43.855Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: January 16, 2026"
+        "desc": "Webex Dedicated Instance/UCM Cloud: Unable to access UC applications hosted in the Los Angeles data centerWebex Calling Service Maintenance: January 16, 2026"
       }
     ],
     "services": [
@@ -81,9 +81,9 @@
       },
       {
         "name": "Dedicated Instance/UCM Cloud",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Webex Contact Center",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-01-16T05:20:09.816Z"
+    "timestamp": "2026-01-16T05:46:40.904Z"
   }
 }
