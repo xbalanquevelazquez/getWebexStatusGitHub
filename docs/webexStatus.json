@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-01-19T06:28:50.223Z",
+  "updatedAt": "2026-01-19T07:03:22.877Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Dedicated Instance/UCM Cloud: Unable to access UC applications hosted in the Los Angeles data center"
+        "desc": ""
       }
     ],
     "services": [
@@ -81,9 +81,9 @@
       },
       {
         "name": "Dedicated Instance/UCM Cloud",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Contact Center",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-01-19T06:28:48.135Z"
+    "timestamp": "2026-01-19T07:03:20.997Z"
   }
 }
