@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-01-20T10:52:24.047Z",
+  "updatedAt": "2026-01-20T11:18:34.130Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Calling Service Maintenance: January 20, 2026"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-01-20T10:52:21.897Z"
+    "timestamp": "2026-01-20T11:18:32.201Z"
   }
 }
