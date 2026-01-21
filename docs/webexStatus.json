@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-21T11:44:02.965Z",
+  "updatedAt": "2026-01-21T11:54:49.398Z",
   "data": {
     "openIncidents": [
       {
@@ -9,9 +9,9 @@
     "services": [
       {
         "name": "Webex Meetings",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex User Hub",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-01-21T11:44:01.203Z"
+    "timestamp": "2026-01-21T11:54:46.873Z"
   }
 }
