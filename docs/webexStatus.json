@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-01-21T11:54:49.398Z",
+  "updatedAt": "2026-01-21T12:34:24.788Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Meetings: Degraded Meetings services experience for users in the EU region"
+        "desc": ""
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-01-21T11:54:46.873Z"
+    "timestamp": "2026-01-21T12:34:22.640Z"
   }
 }
