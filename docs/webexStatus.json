@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-01-21T16:31:50.345Z",
+  "updatedAt": "2026-01-21T17:41:20.771Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling: Admins in the US region are unable to access the provisioning portal for BroadCloud CarrierWebex Calling Service Maintenance: January 21, 2026"
+        "desc": "Webex Calling Service Maintenance: January 21, 2026"
       }
     ],
     "services": [
@@ -75,9 +75,9 @@
       },
       {
         "name": "Cisco BroadCloud",
-        "status": "Major Impact",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-major_outage"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Dedicated Instance/UCM Cloud",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-01-21T16:31:48.356Z"
+    "timestamp": "2026-01-21T17:41:18.559Z"
   }
 }
