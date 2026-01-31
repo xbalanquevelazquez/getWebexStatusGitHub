@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-01-31T19:51:18.499Z",
+  "updatedAt": "2026-01-31T20:17:35.417Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Call recordings are unable to be retrieved and failures updating historical and Realtime reports"
+        "desc": ""
       }
     ],
     "services": [
@@ -87,9 +87,9 @@
       },
       {
         "name": "Webex Contact Center",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Contact Center Enterprise",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-01-31T19:51:16.146Z"
+    "timestamp": "2026-01-31T20:17:32.669Z"
   }
 }
