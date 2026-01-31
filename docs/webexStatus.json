@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-01-31T19:15:57.798Z",
+  "updatedAt": "2026-01-31T19:39:43.277Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Contact Center: Call recordings are unable to be retrieved and failures updating historical and Realtime reports"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-01-31T19:15:55.651Z"
+    "timestamp": "2026-01-31T19:39:40.776Z"
   }
 }
