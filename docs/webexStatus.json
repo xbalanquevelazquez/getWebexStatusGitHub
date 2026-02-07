@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-02-07T23:22:40.358Z",
+  "updatedAt": "2026-02-07T23:53:25.928Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Dedicated Instance: Customers to be unable to access IAAS applications"
+        "desc": ""
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-02-07T23:22:35.922Z"
+    "timestamp": "2026-02-07T23:53:23.528Z"
   }
 }
