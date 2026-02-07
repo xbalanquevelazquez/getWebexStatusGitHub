@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-07T22:52:16.987Z",
+  "updatedAt": "2026-02-07T23:22:40.358Z",
   "data": {
     "openIncidents": [
       {
@@ -81,9 +81,9 @@
       },
       {
         "name": "Dedicated Instance/UCM Cloud",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Contact Center",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-02-07T22:52:14.928Z"
+    "timestamp": "2026-02-07T23:22:35.922Z"
   }
 }
