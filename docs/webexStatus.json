@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T12:33:29.596Z",
+  "updatedAt": "2026-02-08T13:30:51.144Z",
   "data": {
     "openIncidents": [
       {
@@ -99,11 +99,11 @@
       },
       {
         "name": "Slido",
-        "status": "Operational",
+        "status": "Under Maintenance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-under_maintenance"
       }
     ],
-    "timestamp": "2026-02-08T12:33:25.202Z"
+    "timestamp": "2026-02-08T13:30:48.213Z"
   }
 }
