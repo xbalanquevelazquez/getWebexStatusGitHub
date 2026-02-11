@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-02-11T17:38:56.361Z",
+  "updatedAt": "2026-02-11T18:37:43.933Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Virtual Agent summary is not getting generated for agents in the US region"
+        "desc": ""
       }
     ],
     "services": [
@@ -87,9 +87,9 @@
       },
       {
         "name": "Webex Contact Center",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Contact Center Enterprise",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-02-11T17:38:54.474Z"
+    "timestamp": "2026-02-11T18:37:41.927Z"
   }
 }
