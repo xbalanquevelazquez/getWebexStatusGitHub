@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-02-13T23:58:37.272Z",
+  "updatedAt": "2026-02-14T02:11:12.493Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Dedicated Instance and UCM Cloud Service Maintenance: February 13, 2026"
+        "desc": "Webex Calling Dedicated Instance and UCM Cloud Service Maintenance: February 14, 2026Webex Calling Dedicated Instance and UCM Cloud Service Maintenance: February 13, 2026"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-02-13T23:58:35.175Z"
+    "timestamp": "2026-02-14T02:11:09.771Z"
   }
 }
