@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-02-18T10:04:36.194Z",
+  "updatedAt": "2026-02-18T11:05:23.091Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Meetings: Some users may experience split meeting conditionWebex Calling Dedicated Instance and UCM Cloud Service Maintenance: February 18, 2026"
+        "desc": ""
       }
     ],
     "services": [
       {
         "name": "Webex Meetings",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex User Hub",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-02-18T10:04:33.876Z"
+    "timestamp": "2026-02-18T11:05:20.554Z"
   }
 }
