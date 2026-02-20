@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-02-20T19:04:39.285Z",
+  "updatedAt": "2026-02-20T19:46:56.686Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling: Some Cisco Calling Plan users may experience call join failures"
+        "desc": ""
       }
     ],
     "services": [
@@ -69,9 +69,9 @@
       },
       {
         "name": "Webex Calling",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Cisco BroadCloud",
@@ -87,9 +87,9 @@
       },
       {
         "name": "Webex Contact Center",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Contact Center Enterprise",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-02-20T19:04:37.348Z"
+    "timestamp": "2026-02-20T19:46:53.903Z"
   }
 }
