@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-02-21T03:36:14.376Z",
+  "updatedAt": "2026-02-21T04:55:29.756Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Google Virtual Agents intermittently unavailable"
+        "desc": ""
       }
     ],
     "services": [
@@ -87,9 +87,9 @@
       },
       {
         "name": "Webex Contact Center",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Contact Center Enterprise",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-02-21T03:36:11.435Z"
+    "timestamp": "2026-02-21T04:55:27.201Z"
   }
 }
