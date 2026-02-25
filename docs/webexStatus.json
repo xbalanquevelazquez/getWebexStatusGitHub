@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-02-25T08:05:13.008Z",
+  "updatedAt": "2026-02-25T09:06:16.971Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: February 25, 2026Webex Contact Center: Agents in the US, Canada, ANZ and EU regions may experience delays and/or failures when attempting to login, logout, or update agent state"
+        "desc": "Webex Contact Center: Agents in the US, Canada, ANZ and EU regions may experience delays and/or failures when attempting to login, logout, or update agent state"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-02-25T08:05:10.926Z"
+    "timestamp": "2026-02-25T09:06:14.433Z"
   }
 }
