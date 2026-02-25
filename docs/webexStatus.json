@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-02-25T03:14:13.191Z",
+  "updatedAt": "2026-02-25T05:04:00.000Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Agents in the US, Canada, ANZ and EU regions may experience delays and/or failures when attempting to login, logout, or update agent state"
+        "desc": "Webex Calling Service Maintenance: February 25, 2026Webex Contact Center: Agents in the US, Canada, ANZ and EU regions may experience delays and/or failures when attempting to login, logout, or update agent state"
       }
     ],
     "services": [
@@ -87,9 +87,9 @@
       },
       {
         "name": "Webex Contact Center",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Contact Center Enterprise",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-02-25T03:14:11.058Z"
+    "timestamp": "2026-02-25T05:03:57.233Z"
   }
 }
