@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-02-27T17:18:50.620Z",
+  "updatedAt": "2026-02-27T17:58:43.555Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling: Cisco Calling Plan customers may encounter failures while creating Port orders via Control HubWebex Meetings: Singapore Data Center Extended Service Maintenance: February 27, 2026"
+        "desc": "Webex Meetings: Singapore Data Center Extended Service Maintenance: February 27, 2026"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-02-27T17:18:48.540Z"
+    "timestamp": "2026-02-27T17:58:41.193Z"
   }
 }
