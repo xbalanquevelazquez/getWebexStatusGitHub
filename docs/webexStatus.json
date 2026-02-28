@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-02-28T05:28:04.203Z",
+  "updatedAt": "2026-02-28T05:55:19.014Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Meetings: Texas Data Center Extended Service Maintenance: February 27, 2026Webex Meetings: Singapore Data Center Extended Service Maintenance: February 27, 2026"
+        "desc": "Webex Meetings: Texas Data Center Extended Service Maintenance: February 27, 2026"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-02-28T05:28:02.492Z"
+    "timestamp": "2026-02-28T05:55:16.398Z"
   }
 }
