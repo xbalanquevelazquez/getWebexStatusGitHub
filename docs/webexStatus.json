@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T20:18:59.025Z",
+  "updatedAt": "2026-03-01T20:46:59.309Z",
   "data": {
     "openIncidents": [
       {
@@ -57,15 +57,15 @@
       },
       {
         "name": "Webex App",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Control Hub",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Calling",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-03-01T20:18:56.326Z"
+    "timestamp": "2026-03-01T20:46:57.250Z"
   }
 }
