@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-01T14:18:21.770Z",
+  "updatedAt": "2026-03-01T14:46:53.915Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Meetings: Texas Data Center Extended Service Maintenance: February 27, 2026"
+        "desc": "Webex Services: Service degradation for multiple services hosted in the KSA datacenterWebex Meetings: Texas Data Center Extended Service Maintenance: February 27, 2026"
       }
     ],
     "services": [
@@ -57,21 +57,21 @@
       },
       {
         "name": "Webex App",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Webex Control Hub",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Webex Calling",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Cisco BroadCloud",
@@ -87,9 +87,9 @@
       },
       {
         "name": "Webex Contact Center",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Webex Contact Center Enterprise",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-03-01T14:18:19.629Z"
+    "timestamp": "2026-03-01T14:46:51.119Z"
   }
 }
