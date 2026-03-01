@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-01T23:16:34.727Z",
+  "updatedAt": "2026-03-01T23:43:36.606Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Services: Service degradation for multiple services hosted in the UAE and Saudi Arabia regionWebex Meetings: Texas Data Center Extended Service Maintenance: February 27, 2026"
+        "desc": "Webex Meetings: Texas Data Center Extended Service Maintenance: February 27, 2026"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-03-01T23:16:31.334Z"
+    "timestamp": "2026-03-01T23:43:34.106Z"
   }
 }
