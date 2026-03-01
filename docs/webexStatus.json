@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T22:47:25.163Z",
+  "updatedAt": "2026-03-01T23:16:34.727Z",
   "data": {
     "openIncidents": [
       {
@@ -69,9 +69,9 @@
       },
       {
         "name": "Webex Calling",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Cisco BroadCloud",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-03-01T22:47:22.613Z"
+    "timestamp": "2026-03-01T23:16:31.334Z"
   }
 }
