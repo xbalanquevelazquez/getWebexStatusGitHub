@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-02T07:56:42.776Z",
+  "updatedAt": "2026-03-02T08:39:42.657Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Services: Service degradation for multiple services hosted in the UAE and Saudi Arabia regionWebex Meetings: Texas Data Center Extended Service Maintenance: February 27, 2026"
+        "desc": "Webex Services: Service degradation for multiple services hosted in the UAE and Saudi Arabia region"
       }
     ],
     "services": [
@@ -21,15 +21,15 @@
       },
       {
         "name": "Webex Cloud Registered Device",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Developer API",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Webex Hybrid Services",
@@ -63,9 +63,9 @@
       },
       {
         "name": "Webex Control Hub",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Webex Calling",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-03-02T07:56:40.558Z"
+    "timestamp": "2026-03-02T08:39:39.837Z"
   }
 }
