@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-02T06:10:04.781Z",
+  "updatedAt": "2026-03-02T07:15:06.419Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Meetings: Texas Data Center Extended Service Maintenance: February 27, 2026"
+        "desc": "Webex Services: Service degradation for multiple services hosted in the UAE and Saudi Arabia regionWebex Meetings: Texas Data Center Extended Service Maintenance: February 27, 2026"
       }
     ],
     "services": [
@@ -39,9 +39,9 @@
       },
       {
         "name": "Webex for BroadWorks",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Gateway and Solutions",
@@ -57,9 +57,9 @@
       },
       {
         "name": "Webex App",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Webex Control Hub",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-03-02T06:10:02.754Z"
+    "timestamp": "2026-03-02T07:15:04.388Z"
   }
 }
