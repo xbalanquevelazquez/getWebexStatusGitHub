@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-02T09:31:58.413Z",
+  "updatedAt": "2026-03-02T10:28:35.027Z",
   "data": {
     "openIncidents": [
       {
@@ -87,9 +87,9 @@
       },
       {
         "name": "Webex Contact Center",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Webex Contact Center Enterprise",
@@ -99,11 +99,11 @@
       },
       {
         "name": "Slido",
-        "status": "Operational",
+        "status": "Major Impact",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-major_outage"
       }
     ],
-    "timestamp": "2026-03-02T09:31:56.416Z"
+    "timestamp": "2026-03-02T10:28:32.146Z"
   }
 }
