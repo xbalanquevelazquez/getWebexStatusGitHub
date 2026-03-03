@@ -1,8 +1,109 @@
 {
-  "updatedAt": "2026-03-03T15:04:31.648Z",
+  "updatedAt": "2026-03-03T15:59:04.725Z",
   "data": {
-    "openIncidents": [],
-    "services": [],
-    "timestamp": "2026-03-03T15:03:21.095Z"
+    "openIncidents": [
+      {
+        "desc": "Webex Services: Service degradation for multiple services hosted in the UAE and Saudi Arabia regionWebex Calling Service Maintenance: March 03, 2026Webex Calling Service Maintenance: March 03, 2026"
+      }
+    ],
+    "services": [
+      {
+        "name": "Webex Meetings",
+        "status": "Degraded Performance",
+        "nivel": 1,
+        "statusClass": "color-component-status-degraded_performance"
+      },
+      {
+        "name": "Webex User Hub",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "color-component-status-operational"
+      },
+      {
+        "name": "Webex Cloud Registered Device",
+        "status": "Degraded Performance",
+        "nivel": 1,
+        "statusClass": "color-component-status-degraded_performance"
+      },
+      {
+        "name": "Developer API",
+        "status": "Degraded Performance",
+        "nivel": 1,
+        "statusClass": "color-component-status-degraded_performance"
+      },
+      {
+        "name": "Webex Hybrid Services",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "color-component-status-operational"
+      },
+      {
+        "name": "Webex for BroadWorks",
+        "status": "Degraded Performance",
+        "nivel": 1,
+        "statusClass": "color-component-status-degraded_performance"
+      },
+      {
+        "name": "Gateway and Solutions",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "color-component-status-operational"
+      },
+      {
+        "name": "Webex Events (formerly Socio)",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "color-component-status-operational"
+      },
+      {
+        "name": "Webex App",
+        "status": "Degraded Performance",
+        "nivel": 1,
+        "statusClass": "color-component-status-degraded_performance"
+      },
+      {
+        "name": "Webex Control Hub",
+        "status": "Degraded Performance",
+        "nivel": 1,
+        "statusClass": "color-component-status-degraded_performance"
+      },
+      {
+        "name": "Webex Calling",
+        "status": "Degraded Performance",
+        "nivel": 1,
+        "statusClass": "color-component-status-degraded_performance"
+      },
+      {
+        "name": "Cisco BroadCloud",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "color-component-status-operational"
+      },
+      {
+        "name": "Dedicated Instance/UCM Cloud",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "color-component-status-operational"
+      },
+      {
+        "name": "Webex Contact Center",
+        "status": "Degraded Performance",
+        "nivel": 1,
+        "statusClass": "color-component-status-degraded_performance"
+      },
+      {
+        "name": "Webex Contact Center Enterprise",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "color-component-status-operational"
+      },
+      {
+        "name": "Slido",
+        "status": "Major Impact",
+        "nivel": 1,
+        "statusClass": "color-component-status-major_outage"
+      }
+    ],
+    "timestamp": "2026-03-03T15:59:02.553Z"
   }
 }
