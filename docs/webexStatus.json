@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-03T16:53:44.685Z",
+  "updatedAt": "2026-03-03T17:37:08.629Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Services: Service degradation for multiple services hosted in the UAE and Saudi Arabia regionWebex Calling Service Maintenance: March 03, 2026"
+        "desc": "Webex Calling Service Maintenance: March 03, 2026Webex Services: Service degradation for multiple services hosted in the UAE and Saudi Arabia regionWebex Calling Service Maintenance: March 03, 2026"
       }
     ],
     "services": [
@@ -45,9 +45,9 @@
       },
       {
         "name": "Gateway and Solutions",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "color-component-status-operational"
+        "statusClass": "color-component-status-degraded_performance"
       },
       {
         "name": "Webex Events (formerly Socio)",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-major_outage"
       }
     ],
-    "timestamp": "2026-03-03T16:53:42.529Z"
+    "timestamp": "2026-03-03T17:37:06.436Z"
   }
 }
