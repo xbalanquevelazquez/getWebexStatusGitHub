@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-07T23:55:14.882Z",
+  "updatedAt": "2026-03-08T01:25:36.838Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center Service Maintenance: March 07, 2026Webex Meetings: New York Data Center Extended Service Maintenance: March 06, 2026Webex Services: Service degradation for multiple services hosted in the UAE and Saudi Arabia region"
+        "desc": "Webex Services: Service degradation for multiple services hosted in the UAE and Saudi Arabia regionWebex Contact Center Service Maintenance: March 07, 2026Webex Meetings: New York Data Center Extended Service Maintenance: March 06, 2026"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-major_outage"
       }
     ],
-    "timestamp": "2026-03-07T23:55:12.701Z"
+    "timestamp": "2026-03-08T01:25:34.674Z"
   }
 }
