@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-08T23:43:50.381Z",
+  "updatedAt": "2026-03-08T23:56:46.076Z",
   "data": {
     "openIncidents": [
       {
@@ -9,9 +9,9 @@
     "services": [
       {
         "name": "Webex Meetings",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex User Hub",
@@ -21,15 +21,15 @@
       },
       {
         "name": "Webex Cloud Registered Device",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Developer API",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Hybrid Services",
@@ -39,9 +39,9 @@
       },
       {
         "name": "Webex for BroadWorks",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Gateway and Solutions",
@@ -63,15 +63,15 @@
       },
       {
         "name": "Webex Control Hub",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Calling",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Cisco BroadCloud",
@@ -87,9 +87,9 @@
       },
       {
         "name": "Webex Contact Center",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Contact Center Enterprise",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-major_outage"
       }
     ],
-    "timestamp": "2026-03-08T23:43:47.873Z"
+    "timestamp": "2026-03-08T23:56:43.913Z"
   }
 }
