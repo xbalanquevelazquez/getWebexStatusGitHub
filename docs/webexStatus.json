@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-10T19:51:39.975Z",
+  "updatedAt": "2026-03-10T20:26:01.975Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Admins may experience intermittent failures when publishing flowsWebex Calling Service Maintenance: March 10, 2026Webex Calling Service Maintenance: March 10, 2026Webex Services: Service degradation for multiple services hosted in the UAE and Saudi Arabia region"
+        "desc": "Webex Calling Service Maintenance: March 10, 2026Webex Calling Service Maintenance: March 10, 2026Webex Services: Service degradation for multiple services hosted in the UAE and Saudi Arabia region"
       }
     ],
     "services": [
@@ -57,9 +57,9 @@
       },
       {
         "name": "Webex App",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Control Hub",
@@ -87,9 +87,9 @@
       },
       {
         "name": "Webex Contact Center",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Contact Center Enterprise",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-major_outage"
       }
     ],
-    "timestamp": "2026-03-10T19:51:38.042Z"
+    "timestamp": "2026-03-10T20:25:58.984Z"
   }
 }
