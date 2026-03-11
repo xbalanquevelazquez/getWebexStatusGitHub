@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-11T16:00:46.483Z",
+  "updatedAt": "2026-03-11T17:09:06.069Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: March 11, 2026Webex Calling Service Maintenance: March 11, 2026Webex Services: Service degradation for multiple services hosted in the UAE and Saudi Arabia region"
+        "desc": "Webex App: Some users in the US region may experience call join failures and message send failuresWebex Calling Service Maintenance: March 11, 2026Webex Calling Service Maintenance: March 11, 2026Webex Services: Service degradation for multiple services hosted in the UAE and Saudi Arabia region"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-major_outage"
       }
     ],
-    "timestamp": "2026-03-11T16:00:44.446Z"
+    "timestamp": "2026-03-11T17:09:04.065Z"
   }
 }
