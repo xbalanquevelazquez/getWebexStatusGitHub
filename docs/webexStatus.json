@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-12T23:21:13.629Z",
+  "updatedAt": "2026-03-12T23:48:02.543Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: March 12, 2026Webex Calling Service Maintenance: March 12, 2026Webex Services: Service degradation for multiple services hosted in the UAE and Saudi Arabia region"
+        "desc": "Webex Services: Service degradation for multiple services hosted in the UAE and Saudi Arabia regionWebex Calling Service Maintenance: March 12, 2026Webex Calling Service Maintenance: March 12, 2026"
       }
     ],
     "services": [
@@ -57,9 +57,9 @@
       },
       {
         "name": "Webex App",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Webex Control Hub",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-major_outage"
       }
     ],
-    "timestamp": "2026-03-12T23:21:11.832Z"
+    "timestamp": "2026-03-12T23:48:00.296Z"
   }
 }
