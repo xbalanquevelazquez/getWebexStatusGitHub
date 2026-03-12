@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-12T10:58:48.051Z",
+  "updatedAt": "2026-03-12T11:33:08.255Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Control Hub: Partner admins in the EU region are unable to generate device activation code in Control HubWebex Services: Service degradation for multiple services hosted in the UAE and Saudi Arabia region"
+        "desc": "Webex Calling Service Maintenance: March 12, 2026Webex Control Hub: Partner admins in the EU region are unable to generate device activation code in Control HubWebex Services: Service degradation for multiple services hosted in the UAE and Saudi Arabia region"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-major_outage"
       }
     ],
-    "timestamp": "2026-03-12T10:58:45.005Z"
+    "timestamp": "2026-03-12T11:33:05.728Z"
   }
 }
