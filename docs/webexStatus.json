@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-12T06:05:17.513Z",
+  "updatedAt": "2026-03-12T07:12:07.486Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling: Intermittent failures when adding devices via MAC addressWebex Calling Service Maintenance: March 12, 2026Webex Services: Service degradation for multiple services hosted in the UAE and Saudi Arabia region"
+        "desc": "Webex Calling Service Maintenance: March 12, 2026Webex Services: Service degradation for multiple services hosted in the UAE and Saudi Arabia region"
       }
     ],
     "services": [
@@ -69,9 +69,9 @@
       },
       {
         "name": "Webex Calling",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-degraded_performance"
+        "statusClass": "color-component-status-operational"
       },
       {
         "name": "Cisco BroadCloud",
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-major_outage"
       }
     ],
-    "timestamp": "2026-03-12T06:05:14.427Z"
+    "timestamp": "2026-03-12T07:12:04.580Z"
   }
 }
