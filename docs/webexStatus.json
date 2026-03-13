@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-13T01:24:24.337Z",
+  "updatedAt": "2026-03-13T03:41:34.580Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Services: Service degradation for multiple services hosted in the UAE and Saudi Arabia regionWebex Calling Service Maintenance: March 12, 2026"
+        "desc": "Webex Services: Service degradation for multiple services hosted in the UAE and Saudi Arabia region"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "color-component-status-major_outage"
       }
     ],
-    "timestamp": "2026-03-13T01:24:21.824Z"
+    "timestamp": "2026-03-13T03:41:31.800Z"
   }
 }
