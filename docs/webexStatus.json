@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-13T14:29:02.237Z",
+  "updatedAt": "2026-03-13T15:09:20.678Z",
   "data": {
     "openIncidents": [
       {
@@ -99,11 +99,11 @@
       },
       {
         "name": "Slido",
-        "status": "Major Impact",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "color-component-status-major_outage"
+        "statusClass": "color-component-status-operational"
       }
     ],
-    "timestamp": "2026-03-13T14:28:59.195Z"
+    "timestamp": "2026-03-13T15:09:18.608Z"
   }
 }
