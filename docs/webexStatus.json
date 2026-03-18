@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-03-18T18:50:38.929Z",
+  "updatedAt": "2026-03-18T19:43:33.220Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: March 18, 2026Webex Calling Service Maintenance: March 18, 2026"
+        "desc": "Webex Calling Service Maintenance: March 18, 2026"
       }
     ],
     "services": [],
-    "timestamp": "2026-03-18T18:50:35.984Z"
+    "timestamp": "2026-03-18T19:43:30.818Z"
   }
 }
