@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-03-25T01:27:54.537Z",
+  "updatedAt": "2026-03-25T04:00:16.516Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling, Webex Calling Dedicated Instance, and Webex Customer Experience: Poor audio qualityWebex Calling Service Maintenance: March 24, 2026"
+        "desc": "Webex Calling Dedicated Instance and Webex Customer Experience: Intermittent poor audio qualityWebex Calling Service Maintenance: March 25, 2026"
       }
     ],
     "services": [],
-    "timestamp": "2026-03-25T01:27:52.030Z"
+    "timestamp": "2026-03-25T04:00:14.559Z"
   }
 }
