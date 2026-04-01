@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-04-01T09:49:35.485Z",
+  "updatedAt": "2026-04-01T10:48:20.239Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Developer API: Administrators are unable create or manage their service apps within the Webex Developer portal"
       }
     ],
     "services": [],
-    "timestamp": "2026-04-01T09:49:33.563Z"
+    "timestamp": "2026-04-01T10:48:17.678Z"
   }
 }
