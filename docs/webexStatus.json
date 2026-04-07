@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-04-07T16:18:07.930Z",
+  "updatedAt": "2026-04-07T17:30:53.951Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: April 07, 2026"
+        "desc": "Webex Contact Center: Agents in the US region are experiencing disruptions affecting call consultations and transfers for both inbound and outbound trafficWebex Calling Service Maintenance: April 07, 2026Webex Calling Service Maintenance: April 07, 2026"
       }
     ],
     "services": [],
-    "timestamp": "2026-04-07T16:18:06.024Z"
+    "timestamp": "2026-04-07T17:30:51.878Z"
   }
 }
