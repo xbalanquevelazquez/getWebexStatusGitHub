@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-04-10T10:03:08.733Z",
+  "updatedAt": "2026-04-10T11:11:00.781Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Meetings: Some users in the MEA region may experience degraded media quality and split meeting conditions"
       }
     ],
     "services": [],
-    "timestamp": "2026-04-10T10:03:06.752Z"
+    "timestamp": "2026-04-10T11:10:58.724Z"
   }
 }
