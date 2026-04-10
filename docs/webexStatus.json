@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-04-10T14:31:29.061Z",
+  "updatedAt": "2026-04-10T15:31:44.526Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Meetings: Some users in the Middle East region may experience degraded media quality and split meeting conditionsWebex Calling: Some users in the US and Canada regions may experience E911 emergency call failures"
+        "desc": ""
       }
     ],
     "services": [],
-    "timestamp": "2026-04-10T14:31:26.659Z"
+    "timestamp": "2026-04-10T15:31:42.352Z"
   }
 }
