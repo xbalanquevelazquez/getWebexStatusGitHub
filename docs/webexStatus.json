@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-04-14T16:43:33.745Z",
+  "updatedAt": "2026-04-14T17:48:50.974Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling: Users unable to login to queues or change queue status in the US regionWebex Calling Service Maintenance: April 14, 2026Webex Calling Service Maintenance: April 14, 2026Webex Calling Service Maintenance: April 14, 2026"
+        "desc": "Webex Calling Service Maintenance: April 14, 2026Webex Calling Service Maintenance: April 14, 2026"
       }
     ],
     "services": [],
-    "timestamp": "2026-04-14T16:43:30.959Z"
+    "timestamp": "2026-04-14T17:48:49.043Z"
   }
 }
