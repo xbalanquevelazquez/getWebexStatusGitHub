@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-04-16T17:06:05.897Z",
+  "updatedAt": "2026-04-16T18:17:01.329Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Service degradation for AI agent interactions in the US and Canada"
+        "desc": ""
       }
     ],
     "services": [],
-    "timestamp": "2026-04-16T17:06:03.403Z"
+    "timestamp": "2026-04-16T18:16:59.253Z"
   }
 }
