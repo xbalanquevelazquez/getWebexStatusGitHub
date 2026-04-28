@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-04-28T01:21:13.150Z",
+  "updatedAt": "2026-04-28T04:52:01.555Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Services: Users may notice degraded experience with Meetings, Webex Contact Center and Webex CallingWebex Calling Service Maintenance: April 28, 2026"
       }
     ],
     "services": [],
-    "timestamp": "2026-04-28T01:21:10.842Z"
+    "timestamp": "2026-04-28T04:51:59.148Z"
   }
 }
