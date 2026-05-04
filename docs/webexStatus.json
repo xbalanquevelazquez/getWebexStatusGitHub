@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-05-04T21:19:01.822Z",
+  "updatedAt": "2026-05-04T22:31:00.597Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Some users may experience intermittent dead air while utilizing AI agent"
+        "desc": ""
       }
     ],
     "services": [],
-    "timestamp": "2026-05-04T21:18:59.782Z"
+    "timestamp": "2026-05-04T22:30:58.489Z"
   }
 }
