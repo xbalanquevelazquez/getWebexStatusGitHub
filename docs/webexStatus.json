@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-05-05T14:22:38.113Z",
+  "updatedAt": "2026-05-05T17:46:59.801Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling: Some users in the US, Canada, Japan, and EU regions may experience call recording failuresWebex Calling Service Maintenance: May 05, 2026Webex Calling Service Maintenance: May 05, 2026"
+        "desc": "Webex Calling Service Maintenance: May 05, 2026Webex Calling Service Maintenance: May 05, 2026"
       }
     ],
     "services": [],
-    "timestamp": "2026-05-05T14:22:35.626Z"
+    "timestamp": "2026-05-05T17:46:57.677Z"
   }
 }
