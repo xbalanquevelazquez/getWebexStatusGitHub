@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-05-08T07:19:26.491Z",
+  "updatedAt": "2026-05-08T08:53:07.580Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: May 08, 2026"
+        "desc": "Webex Meetings : NBR Consolidation delay due to ongoing situation in Amsterdam data center"
       }
     ],
     "services": [],
-    "timestamp": "2026-05-08T07:19:23.976Z"
+    "timestamp": "2026-05-08T08:53:05.212Z"
   }
 }
