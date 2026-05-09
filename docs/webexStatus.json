@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-05-09T21:59:28.722Z",
+  "updatedAt": "2026-05-09T22:51:40.014Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Meetings: Network Based Recordings consolidation delayWebex Contact Center Service Maintenance: May 09, 2026Webex Meetings: New York Data Center Extended Service Maintenance: May 08, 2026"
+        "desc": "Webex Meetings: Network Based Recordings consolidation delay"
       }
     ],
     "services": [],
-    "timestamp": "2026-05-09T21:59:25.997Z"
+    "timestamp": "2026-05-09T22:51:38.067Z"
   }
 }
