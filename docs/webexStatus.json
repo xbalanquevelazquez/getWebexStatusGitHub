@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-05-12T17:30:47.988Z",
+  "updatedAt": "2026-05-12T19:21:11.260Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: May 12, 2026Webex Calling Service Maintenance: May 12, 2026"
+        "desc": "Cisco BroadCloud: Customers are unable to load Calling Analytics within the Rialto portalWebex Calling Service Maintenance: May 12, 2026Webex Calling Service Maintenance: May 12, 2026"
       }
     ],
     "services": [],
-    "timestamp": "2026-05-12T17:30:45.508Z"
+    "timestamp": "2026-05-12T19:21:09.040Z"
   }
 }
