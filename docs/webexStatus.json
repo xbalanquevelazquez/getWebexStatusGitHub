@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-05-18T13:38:21.272Z",
+  "updatedAt": "2026-05-18T16:39:56.983Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Contact Center: Some Agents in the US region may experience intermittent call failures"
       }
     ],
     "services": [],
-    "timestamp": "2026-05-18T13:38:19.202Z"
+    "timestamp": "2026-05-18T16:39:54.810Z"
   }
 }
