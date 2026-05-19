@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-05-19T09:29:51.685Z",
+  "updatedAt": "2026-05-19T12:25:02.314Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Meetings: Users may experience meeting join failures in the EU region"
+        "desc": "Webex Calling Service Maintenance: May 19, 2026"
       }
     ],
     "services": [],
-    "timestamp": "2026-05-19T09:29:49.387Z"
+    "timestamp": "2026-05-19T12:25:00.229Z"
   }
 }
