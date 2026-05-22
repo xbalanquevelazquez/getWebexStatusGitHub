@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-05-22T02:41:19.476Z",
+  "updatedAt": "2026-05-22T06:34:09.217Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Agent call delivery and call control operations are currently degraded"
+        "desc": "Webex Calling Service Maintenance: May 22, 2026"
       }
     ],
     "services": [],
-    "timestamp": "2026-05-22T02:41:17.412Z"
+    "timestamp": "2026-05-22T06:34:07.232Z"
   }
 }
