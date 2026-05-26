@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-05-26T18:08:03.827Z",
+  "updatedAt": "2026-05-26T20:24:47.219Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Agents may experience issues with AI summaries for mid-call, transfer, or wrap-up eventsWebex Calling Service Maintenance: May 26, 2026"
+        "desc": "Webex Calling Service Maintenance: May 26, 2026Webex Calling Service Maintenance: May 26, 2026Webex Contact Center: Agents may experience issues with AI summaries for mid-call, transfer, or wrap-up eventsWebex Calling Service Maintenance: May 26, 2026"
       }
     ],
     "services": [],
-    "timestamp": "2026-05-26T18:08:01.269Z"
+    "timestamp": "2026-05-26T20:24:45.251Z"
   }
 }
