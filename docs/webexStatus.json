@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-03T12:07:04.575Z",
+  "updatedAt": "2026-06-03T17:14:48.687Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Services: Service degradation for multiple services hosted in the US region"
       }
     ],
     "services": [],
-    "timestamp": "2026-06-03T12:07:02.313Z"
+    "timestamp": "2026-06-03T17:14:46.463Z"
   }
 }
