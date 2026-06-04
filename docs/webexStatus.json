@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-04T20:22:14.933Z",
+  "updatedAt": "2026-06-04T21:58:35.345Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Dedicated Instance: Customers are unable to access the DI CUCM User Interface through cross-launch in Webex Control Hub"
+        "desc": ""
       }
     ],
     "services": [],
-    "timestamp": "2026-06-04T20:22:12.938Z"
+    "timestamp": "2026-06-04T21:58:32.393Z"
   }
 }
