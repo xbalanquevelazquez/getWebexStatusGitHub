@@ -1,12 +1,8 @@
 {
-  "updatedAt": "2026-06-05T19:06:10.327Z",
+  "updatedAt": "2026-06-05T20:55:36.733Z",
   "data": {
-    "openIncidents": [
-      {
-        "desc": ""
-      }
-    ],
+    "openIncidents": [],
     "services": [],
-    "timestamp": "2026-06-05T19:06:07.618Z"
+    "timestamp": "2026-06-05T20:54:26.164Z"
   }
 }
