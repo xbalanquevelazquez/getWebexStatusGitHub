@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-10T06:17:08.331Z",
+  "updatedAt": "2026-06-10T10:38:24.995Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Slido: Some users may experience login failures"
       }
     ],
     "services": [],
-    "timestamp": "2026-06-10T06:17:05.776Z"
+    "timestamp": "2026-06-10T10:38:22.823Z"
   }
 }
