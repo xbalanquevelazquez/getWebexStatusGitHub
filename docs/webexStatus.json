@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-11T11:18:29.074Z",
+  "updatedAt": "2026-06-11T15:01:25.970Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Agents may experience latency and or failures in AI summaries during mid-call, transfer, or wrap-up events"
+        "desc": ""
       }
     ],
     "services": [],
-    "timestamp": "2026-06-11T11:18:26.585Z"
+    "timestamp": "2026-06-11T15:01:23.439Z"
   }
 }
