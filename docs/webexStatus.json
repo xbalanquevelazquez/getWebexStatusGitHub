@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-17T20:54:51.512Z",
+  "updatedAt": "2026-06-17T22:41:58.189Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling: Webex Attendant Console login failures impacting users accessing via Webex Client app and direct URLWebex Calling Service Maintenance: June 17, 2026"
+        "desc": "Webex Calling: Webex Attendant Console login failures impacting users accessing via Webex Client app and direct URLWebex Calling Service Maintenance: June 17, 2026Webex Calling Service Maintenance: June 17, 2026"
       }
     ],
     "services": [],
-    "timestamp": "2026-06-17T20:54:49.185Z"
+    "timestamp": "2026-06-17T22:41:55.915Z"
   }
 }
