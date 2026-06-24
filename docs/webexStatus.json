@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-06-24T16:00:22.951Z",
+  "updatedAt": "2026-06-24T18:01:14.150Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: June 24, 2026Webex Calling Service Maintenance: June 24, 2026Webex Calling: On-Prem CUCM customers may experience call failures"
+        "desc": "Webex Calling: On-Prem CUCM customers may experience call failuresWebex Calling Service Maintenance: June 24, 2026"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-06-24T16:00:20.387Z"
+    "timestamp": "2026-06-24T18:01:12.150Z"
   }
 }
