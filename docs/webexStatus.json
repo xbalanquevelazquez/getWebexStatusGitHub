@@ -1,11 +1,16 @@
 {
+<<<<<<< HEAD
   "updatedAt": "2026-06-24T15:48:30.602Z",
+=======
+  "updatedAt": "2026-06-24T13:36:43.534Z",
+>>>>>>> b346de67e545af5e380c18db0d86932579a18d9e
   "data": {
     "openIncidents": [
       {
         "desc": "Webex Calling Service Maintenance: June 24, 2026Webex Calling Service Maintenance: June 24, 2026Webex Calling: On-Prem CUCM customers may experience call failures"
       }
     ],
+<<<<<<< HEAD
     "services": [
       {
         "name": "Webex Meetings",
@@ -105,5 +110,9 @@
       }
     ],
     "timestamp": "2026-06-24T15:48:25.386Z"
+=======
+    "services": [],
+    "timestamp": "2026-06-24T13:36:40.803Z"
+>>>>>>> b346de67e545af5e380c18db0d86932579a18d9e
   }
 }
