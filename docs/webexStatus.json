@@ -1,12 +1,109 @@
 {
-  "updatedAt": "2026-06-24T01:30:03.259Z",
+  "updatedAt": "2026-06-24T15:48:30.602Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: June 23, 2026Webex Calling: On-Prem CUCM customers may experience call failures"
+        "desc": "Webex Calling Service Maintenance: June 24, 2026Webex Calling Service Maintenance: June 24, 2026Webex Calling: On-Prem CUCM customers may experience call failures"
       }
     ],
-    "services": [],
-    "timestamp": "2026-06-24T01:30:00.610Z"
+    "services": [
+      {
+        "name": "Webex Meetings",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "status-operational"
+      },
+      {
+        "name": "Webex App",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "status-operational"
+      },
+      {
+        "name": "Webex User Hub",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "status-operational"
+      },
+      {
+        "name": "Webex Control Hub",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "status-operational"
+      },
+      {
+        "name": "Webex Cloud Registered Device",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "status-operational"
+      },
+      {
+        "name": "Webex Calling",
+        "status": "Degraded Performance",
+        "nivel": 1,
+        "statusClass": "status-degraded"
+      },
+      {
+        "name": "Developer API",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "status-operational"
+      },
+      {
+        "name": "Cisco BroadCloud",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "status-operational"
+      },
+      {
+        "name": "Webex Hybrid Services",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "status-operational"
+      },
+      {
+        "name": "Dedicated Instance/UCM Cloud",
+        "status": "Unknown (status-not-available)",
+        "nivel": 1,
+        "statusClass": "status-not-available"
+      },
+      {
+        "name": "Webex for BroadWorks",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "status-operational"
+      },
+      {
+        "name": "Webex Contact Center",
+        "status": "Unknown (status-not-available)",
+        "nivel": 1,
+        "statusClass": "status-not-available"
+      },
+      {
+        "name": "Gateway and Solutions",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "status-operational"
+      },
+      {
+        "name": "Webex Contact Center Enterprise",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "status-operational"
+      },
+      {
+        "name": "Webex Events (formerly Socio)",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "status-operational"
+      },
+      {
+        "name": "Slido",
+        "status": "Operational",
+        "nivel": 1,
+        "statusClass": "status-operational"
+      }
+    ],
+    "timestamp": "2026-06-24T15:48:25.386Z"
   }
 }

@@ -50,6 +50,26 @@ async function scrapeWebexStatusLogic() {
         const $ = cheerio.load(fullHTML);
         console.error('[INFO] cargado HTML en cheerio');
 
+        /*console.log(
+          '[INFO] component-row encontrados:',
+          $('.component-row').length
+        );
+
+        console.log(
+          '[INFO] parent-component encontrados:',
+          $('.parent-component').length
+        );
+
+
+        const fs = require('fs');
+
+        fs.writeFileSync(
+          'webex-debug.html',
+          fullHTML,
+          'utf8'
+        );*/
+
+
         const categories = [];
         const openIncidents = [];
         const services = [];
@@ -64,7 +84,7 @@ async function scrapeWebexStatusLogic() {
 
         // Coloco la primeraa categoría
         // Categorías principales
-        $('.component-row .parent-component').each((i, element) => {
+        /*$('.component-row .parent-component').each((i, element) => {
             const serviceName = $(element).find('.component-name').text().trim();
             const serviceStatus = $(element).find('.parent-component-status .component-span').text().trim();
             const statusClasses = $(element).find('.parent-component-status .component-span').attr('class').split(' ');
@@ -83,8 +103,76 @@ async function scrapeWebexStatusLogic() {
                 console.error('[INFO] serviceStatus: '+serviceStatus);
 
             }
-        });
-        console.error(' -------- ');
+        });*/
+        $('.service-row.main-service').each((i, element) => {
+
+            const serviceName = $(element)
+                .find('td:first-child .d-inline-flex')
+                .text()
+                .trim();
+
+
+            // Tomar la columna de South America
+            // Índice: 0 servicio, 1 N America West, 2 N America East, 3 South America
+            const statusElement = $(element)
+                .find('td')
+                .eq(3)
+                .find('.status-icon')
+                .first();
+
+
+            const classAttribute = statusElement.attr('class');
+
+            console.log('[DEBUG CLASS]', classAttribute);
+
+            let statusClass = '';
+
+            if(classAttribute){
+                statusClass = classAttribute
+                    .split(/\s+/)
+                    .find(c => c.includes('status-') && c !== 'status-icon');
+            }
+
+
+            let serviceStatus = '';
+
+            
+            switch(statusClass){
+
+                case 'status-operational':
+                    serviceStatus = 'Operational';
+                    break;
+
+                case 'status-degraded':
+                    serviceStatus = 'Degraded Performance';
+                    break;
+
+                case 'status-major':
+                    serviceStatus = 'Major Impact';
+                    break;
+
+                case 'status-maintenance':
+                    serviceStatus = 'Under Maintenance';
+                    break;
+
+                default:
+                    serviceStatus = `Unknown (${statusClass})`;
+            }
+
+
+            categories.push({
+                name: serviceName,
+                status: serviceStatus,
+                nivel: 1,
+                statusClass: statusClass
+            });
+
+
+            console.error(
+                `[INFO] ${serviceName}: ${serviceStatus} (${statusClass})`
+            );
+
+        });        console.error(' -------- ');
         //services.push(categories[0]);
 
         /*$('.sub_service_item').each((i, element) => {
