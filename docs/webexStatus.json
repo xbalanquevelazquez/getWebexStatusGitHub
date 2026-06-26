@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-06-26T11:40:06.258Z",
+  "updatedAt": "2026-06-26T13:35:26.606Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling: On-Prem CUCM customers may experience call failures"
+        "desc": ""
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-06-26T11:40:04.044Z"
+    "timestamp": "2026-06-26T13:35:24.537Z"
   }
 }
