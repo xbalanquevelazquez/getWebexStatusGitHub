@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-02T11:17:52.217Z",
+  "updatedAt": "2026-07-02T13:14:32.848Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Some agents may experience latency in real-time reporting for Supervisor Desktop and Analyzer"
+        "desc": "Webex Calling Service Maintenance: July 02, 2026Webex Calling Service Maintenance: July 02, 2026Webex Calling Service Maintenance: July 02, 2026Webex Contact Center: Some agents may experience latency in real-time reporting for Supervisor Desktop and Analyzer"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-07-02T11:17:49.556Z"
+    "timestamp": "2026-07-02T13:14:30.277Z"
   }
 }
