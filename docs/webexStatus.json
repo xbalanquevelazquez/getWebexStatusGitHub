@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-09T01:17:18.689Z",
+  "updatedAt": "2026-07-09T05:31:12.197Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: July 08, 2026"
+        "desc": "Webex Dedicated Instance: Service degradation due to connectivity issues between London and Amsterdam data centersWebex Calling Service Maintenance: July 09, 2026"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-07-09T01:17:16.105Z"
+    "timestamp": "2026-07-09T05:31:10.079Z"
   }
 }
