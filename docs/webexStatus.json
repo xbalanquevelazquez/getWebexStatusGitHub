@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-15T20:11:44.435Z",
+  "updatedAt": "2026-07-15T21:14:03.944Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Some agents in the US region are intermittently unable to log in Webex Calling Service Maintenance: July 15, 2026"
+        "desc": "Webex Calling Service Maintenance: July 15, 2026Webex Contact Center: Some agents in the US region are intermittently unable to log in Webex Calling Service Maintenance: July 15, 2026"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-07-15T20:11:41.692Z"
+    "timestamp": "2026-07-15T21:14:01.503Z"
   }
 }
