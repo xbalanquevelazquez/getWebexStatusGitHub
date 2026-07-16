@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-16T08:31:40.136Z",
+  "updatedAt": "2026-07-16T10:33:54.861Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Calls remain active in the Webex App even after transfer/disconnect completionWebex Calling Service Maintenance: July 16, 2026Webex Contact Center: Some agents in the US region are intermittently unable to log in"
+        "desc": "Webex Contact Center: Some agents are experiencing intermittent failures when logging inWebex Contact Center: Calls remain active in the Webex App even after transfer/disconnect completion"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-07-16T08:31:37.741Z"
+    "timestamp": "2026-07-16T10:33:52.248Z"
   }
 }
