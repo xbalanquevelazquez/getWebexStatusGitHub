@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-19T00:07:36.049Z",
+  "updatedAt": "2026-07-19T03:50:54.451Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Control Hub Service Maintenance: July 19, 2026"
       }
     ],
     "services": [
@@ -27,9 +27,9 @@
       },
       {
         "name": "Webex Control Hub",
-        "status": "Operational",
+        "status": "Under Maintenance",
         "nivel": 1,
-        "statusClass": "status-operational"
+        "statusClass": "status-maintenance"
       },
       {
         "name": "Webex Cloud Registered Device",
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-07-19T00:07:33.137Z"
+    "timestamp": "2026-07-19T03:50:52.148Z"
   }
 }
