@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-20T14:38:59.147Z",
+  "updatedAt": "2026-07-20T16:13:10.146Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Agents using third-party CRM widget are unable to login to desktop"
+        "desc": ""
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-07-20T14:38:56.057Z"
+    "timestamp": "2026-07-20T16:13:07.185Z"
   }
 }
