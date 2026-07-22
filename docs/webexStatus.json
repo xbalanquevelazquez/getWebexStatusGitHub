@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-22T18:04:02.234Z",
+  "updatedAt": "2026-07-22T19:41:12.191Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Some users may experience intermittent one-way audio for PSTN calls in the Japan regionWebex Calling Service Maintenance: July 22, 2026"
+        "desc": "Webex Calling Service Maintenance: July 22, 2026"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-07-22T18:03:58.026Z"
+    "timestamp": "2026-07-22T19:41:09.882Z"
   }
 }
