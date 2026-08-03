@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-03T14:01:22.930Z",
+  "updatedAt": "2026-08-03T16:39:16.123Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Control Hub: Some Administrators are unable to login"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-08-03T14:01:20.628Z"
+    "timestamp": "2026-08-03T16:39:12.590Z"
   }
 }
