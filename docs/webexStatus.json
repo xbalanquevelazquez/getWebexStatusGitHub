@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-05T13:48:56.232Z",
+  "updatedAt": "2026-08-05T15:56:02.807Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Dedicated Instance/UCM Cloud: Multiple alerts impacting UCM Calling and provisioning servicesWebex Calling Service Maintenance: August 05, 2026Webex Calling Service Maintenance: August 05, 2026"
+        "desc": "Webex Calling Service Maintenance: August 05, 2026Webex Calling Service Maintenance: August 05, 2026"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-08-05T13:48:52.899Z"
+    "timestamp": "2026-08-05T15:56:00.362Z"
   }
 }
