@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-10T05:03:11.323Z",
+  "updatedAt": "2026-08-10T06:21:21.213Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Admins will experience failures when attempting to add or delete devices via Webex Control Hub or APIs"
+        "desc": "Webex Calling: Admins will experience failures when attempting to add or delete devices via Webex Control Hub or APIs"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-08-10T05:03:08.903Z"
+    "timestamp": "2026-08-10T06:21:18.640Z"
   }
 }
