@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T06:21:21.213Z",
+  "updatedAt": "2026-08-10T08:11:35.261Z",
   "data": {
     "openIncidents": [
       {
@@ -39,9 +39,9 @@
       },
       {
         "name": "Webex Calling",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "status-degraded"
+        "statusClass": "status-operational"
       },
       {
         "name": "Developer API",
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-08-10T06:21:18.640Z"
+    "timestamp": "2026-08-10T08:11:32.594Z"
   }
 }
