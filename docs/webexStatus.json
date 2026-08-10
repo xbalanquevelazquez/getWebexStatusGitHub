@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-10T03:22:46.677Z",
+  "updatedAt": "2026-08-10T05:03:11.323Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Calling Admins will experience failures when attempting to add or delete devices via Webex Control Hub or APIs"
       }
     ],
     "services": [
@@ -39,9 +39,9 @@
       },
       {
         "name": "Webex Calling",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "status-operational"
+        "statusClass": "status-degraded"
       },
       {
         "name": "Developer API",
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-08-10T03:22:43.169Z"
+    "timestamp": "2026-08-10T05:03:08.903Z"
   }
 }
