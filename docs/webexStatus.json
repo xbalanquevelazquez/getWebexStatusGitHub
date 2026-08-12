@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-12T11:28:14.550Z",
+  "updatedAt": "2026-08-12T12:09:45.439Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex for BroadWorks: Users are not receiving the incoming call notifications on their Webex App for mobile"
+        "desc": "Webex Calling Service Maintenance: August 12, 2026Webex for BroadWorks: Users are not receiving the incoming call notifications on their Webex App for mobile"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-08-12T11:28:12.526Z"
+    "timestamp": "2026-08-12T12:09:43.186Z"
   }
 }
