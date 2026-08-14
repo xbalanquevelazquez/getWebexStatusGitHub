@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-14T09:18:49.539Z",
+  "updatedAt": "2026-08-14T10:30:33.359Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Meetings: Japan Data Center Emergency Maintenance: August 14, 2026"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-08-14T09:18:47.149Z"
+    "timestamp": "2026-08-14T10:30:30.932Z"
   }
 }
