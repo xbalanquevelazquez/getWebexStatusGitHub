@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-15T02:37:21.616Z",
+  "updatedAt": "2026-08-15T03:21:30.461Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Meetings: Users in the Europe and Africa region may be unable to join meetings"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-08-15T02:37:18.738Z"
+    "timestamp": "2026-08-15T03:21:26.583Z"
   }
 }
