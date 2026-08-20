@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-20T11:59:34.661Z",
+  "updatedAt": "2026-08-20T12:55:25.488Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Calling: Some Devices are displaying incorrect status in Webex Control HubWebex Calling Service Maintenance: August 20, 2026"
       }
     ],
     "services": [
@@ -27,9 +27,9 @@
       },
       {
         "name": "Webex Control Hub",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "status-operational"
+        "statusClass": "status-degraded"
       },
       {
         "name": "Webex Cloud Registered Device",
@@ -39,9 +39,9 @@
       },
       {
         "name": "Webex Calling",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "status-operational"
+        "statusClass": "status-degraded"
       },
       {
         "name": "Developer API",
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-08-20T11:59:30.609Z"
+    "timestamp": "2026-08-20T12:55:22.737Z"
   }
 }
