@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-20T16:59:00.263Z",
+  "updatedAt": "2026-08-20T17:31:08.258Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling: Some Devices are displaying incorrect status in Webex Control HubWebex Calling Service Maintenance: August 20, 2026Webex Calling Service Maintenance: August 20, 2026Webex Calling Service Maintenance: August 20, 2026"
+        "desc": "Webex Calling Service Maintenance: August 20, 2026Webex Calling Service Maintenance: August 20, 2026"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-08-20T16:58:57.542Z"
+    "timestamp": "2026-08-20T17:31:05.406Z"
   }
 }
