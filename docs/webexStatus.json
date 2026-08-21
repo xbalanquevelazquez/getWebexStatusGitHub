@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-21T08:55:22.472Z",
+  "updatedAt": "2026-08-21T09:28:17.551Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex : Multiple services impacted in EU regionWebex Calling Service Maintenance: August 21, 2026"
+        "desc": "Webex Contact Center: Campaign call failures for users in EU regionsWebex : Multiple services impacted in EU regionWebex Calling Service Maintenance: August 21, 2026"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-08-21T08:55:19.747Z"
+    "timestamp": "2026-08-21T09:28:14.985Z"
   }
 }
