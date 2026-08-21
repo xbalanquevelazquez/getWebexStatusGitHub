@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-21T16:23:06.148Z",
+  "updatedAt": "2026-08-21T16:59:20.735Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: August 21, 2026"
+        "desc": "Webex Dedicated Instance: Users may experience phone registration failuresWebex Calling Service Maintenance: August 21, 2026"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-08-21T16:23:03.672Z"
+    "timestamp": "2026-08-21T16:59:17.959Z"
   }
 }
