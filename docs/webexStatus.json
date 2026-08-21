@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-21T22:15:15.243Z",
+  "updatedAt": "2026-08-21T22:43:11.235Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Dedicated Instance: Users may experience phone registration failures"
+        "desc": ""
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-08-21T22:15:12.940Z"
+    "timestamp": "2026-08-21T22:43:09.192Z"
   }
 }
