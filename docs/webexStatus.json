@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-23T09:50:01.452Z",
+  "updatedAt": "2026-08-23T10:15:28.697Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Dedicated Instance/UCM Cloud: Connectivity failures with poxy server 69.168.16.27"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-08-23T09:49:58.511Z"
+    "timestamp": "2026-08-23T10:15:26.267Z"
   }
 }
