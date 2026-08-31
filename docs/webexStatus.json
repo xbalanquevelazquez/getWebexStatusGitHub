@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-31T19:46:13.645Z",
+  "updatedAt": "2026-08-31T23:31:45.460Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling: Some Devices are not visible in Collaboration Control Hub"
+        "desc": "Webex Calling Service Maintenance: August 31, 2026Webex Calling: Some Devices are not visible in Collaboration Control Hub"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-08-31T19:46:11.830Z"
+    "timestamp": "2026-08-31T23:31:42.003Z"
   }
 }
