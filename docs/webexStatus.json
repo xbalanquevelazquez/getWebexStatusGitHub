@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-03T13:42:23.072Z",
+  "updatedAt": "2026-09-03T17:14:58.378Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: September 03, 2026Webex App: New users are unable to login via OpenID Connect (OIDC) SSO"
+        "desc": "Webex Calling Service Maintenance: September 03, 2026"
       }
     ],
     "services": [
@@ -15,9 +15,9 @@
       },
       {
         "name": "Webex App",
-        "status": "Degraded Performance",
+        "status": "Operational",
         "nivel": 1,
-        "statusClass": "status-degraded"
+        "statusClass": "status-operational"
       },
       {
         "name": "Webex User Hub",
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-09-03T13:42:20.830Z"
+    "timestamp": "2026-09-03T17:14:56.281Z"
   }
 }
