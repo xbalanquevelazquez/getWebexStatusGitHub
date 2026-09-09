@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-09T10:06:59.058Z",
+  "updatedAt": "2026-09-09T14:33:44.257Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Collaboration Control Hub: Some administrators are unable to remote access devices from Collaboration Control Hub"
+        "desc": ""
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-09-09T10:06:57.029Z"
+    "timestamp": "2026-09-09T14:33:41.307Z"
   }
 }
