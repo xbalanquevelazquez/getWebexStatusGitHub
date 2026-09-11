@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-11T17:26:47.875Z",
+  "updatedAt": "2026-09-11T19:55:12.096Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Meetings: Singapore Data Center Maintenance: September 11, 2026"
+        "desc": ""
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-09-11T17:26:44.703Z"
+    "timestamp": "2026-09-11T19:55:09.637Z"
   }
 }
