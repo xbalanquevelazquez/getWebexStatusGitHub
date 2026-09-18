@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-18T17:23:46.866Z",
+  "updatedAt": "2026-09-18T19:49:40.552Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Gateway and Solutions: Some users may experience intermittent degraded audio/video quality when joining Microsoft Teams meetings via VIMT"
+        "desc": "Webex Contact Center Enterprise: Users may experience intermittent agent desktop sign-in failures and agent logoutsWebex Meetings: Frankfurt Data Center Extended Service Maintenance: September 18, 2026Gateway and Solutions: Some users may experience intermittent degraded audio/video quality when joining Microsoft Teams meetings via VIMT"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-09-18T17:23:44.094Z"
+    "timestamp": "2026-09-18T19:49:37.960Z"
   }
 }
