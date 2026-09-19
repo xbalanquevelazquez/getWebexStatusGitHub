@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-19T18:42:34.078Z",
+  "updatedAt": "2026-09-19T21:01:41.045Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center Enterprise: Users may experience intermittent agent desktop sign-in failures and agent logoutsGateway and Solutions: Some users may experience intermittent degraded audio/video quality when joining Microsoft Teams meetings via VIMTWebex Meetings: Frankfurt Data Center Extended Service Maintenance: September 18, 2026"
+        "desc": "Gateway and Solutions: Some users may experience intermittent degraded audio/video quality when joining Microsoft Teams meetings via VIMTWebex Contact Center Enterprise: Users may experience intermittent agent desktop sign-in failures and agent logoutsWebex Meetings: Frankfurt Data Center Extended Service Maintenance: September 18, 2026"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-09-19T18:42:31.389Z"
+    "timestamp": "2026-09-19T21:01:38.396Z"
   }
 }
