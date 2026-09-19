@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-19T09:06:46.589Z",
+  "updatedAt": "2026-09-19T13:07:45.089Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center Enterprise: Users may experience intermittent agent desktop sign-in failures and agent logoutsGateway and Solutions: Some users may experience intermittent degraded audio/video quality when joining Microsoft Teams meetings via VIMTWebex Meetings: Frankfurt Data Center Extended Service Maintenance: September 18, 2026"
+        "desc": "Webex Calling: Users in the EU region are unable to access the Rialto Market portalsWebex Contact Center Enterprise: Users may experience intermittent agent desktop sign-in failures and agent logoutsGateway and Solutions: Some users may experience intermittent degraded audio/video quality when joining Microsoft Teams meetings via VIMTWebex Meetings: Frankfurt Data Center Extended Service Maintenance: September 18, 2026"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-09-19T09:06:43.054Z"
+    "timestamp": "2026-09-19T13:07:41.973Z"
   }
 }
