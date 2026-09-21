@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-21T10:42:38.293Z",
+  "updatedAt": "2026-09-21T16:35:54.942Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Gateway and Solutions: Some users may experience intermittent degraded audio/video quality when joining Microsoft Teams meetings via VIMTWebex Contact Center Enterprise: Users may experience intermittent agent desktop sign-in failures and agent logouts"
+        "desc": "Webex Contact Center: Some agents in the US region may have been disconnected from the agent desktopGateway and Solutions: Some users may experience intermittent degraded audio/video quality when joining Microsoft Teams meetings via VIMTWebex Contact Center Enterprise: Users may experience intermittent agent desktop sign-in failures and agent logouts"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-09-21T10:42:36.109Z"
+    "timestamp": "2026-09-21T16:35:52.829Z"
   }
 }
