@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-23T15:52:48.063Z",
+  "updatedAt": "2026-09-23T19:22:07.970Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: September 23, 2026Webex Calling Service Maintenance: September 23, 2026Gateway and Solutions: Some users may experience intermittent degraded audio/video quality when joining Microsoft Teams meetings via VIMT"
+        "desc": "Webex Calling Service Maintenance: September 23, 2026Gateway and Solutions: Some users may experience intermittent degraded audio/video quality when joining Microsoft Teams meetings via VIMT"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-09-23T15:52:45.769Z"
+    "timestamp": "2026-09-23T19:22:05.681Z"
   }
 }
