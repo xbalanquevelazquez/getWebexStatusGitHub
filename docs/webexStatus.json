@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-30T03:20:53.586Z",
+  "updatedAt": "2026-09-30T09:53:10.656Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Some users may experience dead air or one-way audio Webex Contact Center Enterprise: Users in EMEA may experience intermittent connectivity issuesWebex Calling Service Maintenance: September 30, 2026Webex Calling Service Maintenance: September 30, 2026"
+        "desc": "Webex Contact Center Enterprise: Users in EMEA may experience intermittent connectivity issues"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-09-30T03:20:48.928Z"
+    "timestamp": "2026-09-30T09:53:08.652Z"
   }
 }
