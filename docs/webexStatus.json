@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-10T19:16:10.106Z",
+  "updatedAt": "2026-10-10T22:45:55.036Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling: Inbound call failures Impacting Cisco Calling Plan users in the Canada region"
+        "desc": ""
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-10-10T19:16:07.888Z"
+    "timestamp": "2026-10-10T22:45:52.940Z"
   }
 }
