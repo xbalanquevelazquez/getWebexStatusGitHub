@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-11T07:31:47.573Z",
+  "updatedAt": "2026-10-11T14:22:01.477Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Webex Contact Center Enterprise: Intermittent Agent Desktops and Console access failures in the US region"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-10-11T07:31:45.122Z"
+    "timestamp": "2026-10-11T14:21:59.330Z"
   }
 }
