@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-15T21:36:16.738Z",
+  "updatedAt": "2026-10-15T23:51:29.982Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: October 15, 2026Webex Calling Service Maintenance: October 15, 2026Webex Calling Service Maintenance: October 15, 2026Webex Meetings: London Data Center Service Maintenance: October 15, 2026"
+        "desc": "Webex Calling Service Maintenance: October 15, 2026Webex Calling Service Maintenance: October 15, 2026Webex Calling Service Maintenance: October 15, 2026"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-10-15T21:36:14.103Z"
+    "timestamp": "2026-10-15T23:51:26.452Z"
   }
 }
