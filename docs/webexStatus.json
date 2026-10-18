@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-18T05:07:39.349Z",
+  "updatedAt": "2026-10-18T09:33:09.540Z",
   "data": {
     "openIncidents": [
       {
-        "desc": ""
+        "desc": "Dedicated Instance/UCM Cloud - Extension mobility login and provisioning failures"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-10-18T05:07:36.921Z"
+    "timestamp": "2026-10-18T09:33:07.067Z"
   }
 }
