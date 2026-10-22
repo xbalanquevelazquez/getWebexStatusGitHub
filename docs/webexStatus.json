@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-22T18:48:28.441Z",
+  "updatedAt": "2026-10-22T22:01:09.216Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Contact Center: Some agents may experience latency in real-time reporting in AnalyzerCollaboration Control Hub: Customers in the US region may experience intermittent errors or latency with user licensing, provisioning, and batch user management actionsWebex Calling Service Maintenance: October 22, 2026"
+        "desc": "Webex Calling Service Maintenance: October 22, 2026Webex Calling Service Maintenance: October 22, 2026"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-10-22T18:48:25.601Z"
+    "timestamp": "2026-10-22T22:01:05.985Z"
   }
 }
