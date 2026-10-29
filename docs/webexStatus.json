@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-29T17:51:18.377Z",
+  "updatedAt": "2026-10-29T22:15:10.189Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: October 29, 2026Webex Calling Service Maintenance: October 29, 2026Webex Calling Service Maintenance: October 29, 2026"
+        "desc": "Webex Services: Some users may experience failures or delays with meeting creation, content sharing, mute controls, and participant roster updatesWebex Calling Service Maintenance: October 29, 2026Webex Calling Service Maintenance: October 29, 2026"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-10-29T17:51:15.183Z"
+    "timestamp": "2026-10-29T22:15:08.280Z"
   }
 }
