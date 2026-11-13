@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-13T12:28:33.659Z",
+  "updatedAt": "2026-11-13T19:56:43.842Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Hybrid Services: Users may notice sync delays with the Hybrid Calendar service"
+        "desc": "Webex Meetings: London Data Center Service Maintenance: November 13, 2026Webex Hybrid Services: Users may notice sync delays with the Hybrid Calendar service"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-11-13T12:28:30.727Z"
+    "timestamp": "2026-11-13T19:56:40.472Z"
   }
 }
