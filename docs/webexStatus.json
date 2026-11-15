@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-15T16:35:19.618Z",
+  "updatedAt": "2026-11-15T21:16:19.213Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling Service Maintenance: November 15, 2026Webex Hybrid Services: Users may notice sync delays with the Hybrid Calendar service"
+        "desc": "Webex Calling: Device management is intermittently failingWebex Hybrid Services: Users may notice sync delays with the Hybrid Calendar service"
       }
     ],
     "services": [
@@ -39,9 +39,9 @@
       },
       {
         "name": "Webex Calling",
-        "status": "Operational",
+        "status": "Degraded Performance",
         "nivel": 1,
-        "statusClass": "status-operational"
+        "statusClass": "status-degraded"
       },
       {
         "name": "Developer API",
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-11-15T16:35:17.546Z"
+    "timestamp": "2026-11-15T21:16:16.459Z"
   }
 }
