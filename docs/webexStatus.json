@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-15T02:22:52.195Z",
+  "updatedAt": "2026-11-15T09:41:16.419Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Hybrid Services: Users may notice sync delays with the Hybrid Calendar service"
+        "desc": "Webex Calling Service Maintenance: November 15, 2026Webex Hybrid Services: Users may notice sync delays with the Hybrid Calendar service"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-11-15T02:22:49.753Z"
+    "timestamp": "2026-11-15T09:41:13.846Z"
   }
 }
