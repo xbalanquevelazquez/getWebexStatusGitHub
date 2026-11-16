@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-16T01:13:49.782Z",
+  "updatedAt": "2026-11-16T07:59:28.945Z",
   "data": {
     "openIncidents": [
       {
-        "desc": "Webex Calling: Device management is intermittently failingWebex Hybrid Services: Users may notice sync delays with the Hybrid Calendar service"
+        "desc": "Webex Hybrid Services: Users may notice sync delays with the Hybrid Calendar service"
       }
     ],
     "services": [
@@ -104,6 +104,6 @@
         "statusClass": "status-operational"
       }
     ],
-    "timestamp": "2026-11-16T01:13:47.542Z"
+    "timestamp": "2026-11-16T07:59:26.710Z"
   }
 }
